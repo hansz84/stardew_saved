@@ -1,310 +1,314 @@
-[12:25:09 INFO  SMAPI] SMAPI 3.14.5 with Stardew Valley 1.5.6 (build 22018) on Microsoft Windows 10 Pro
-[12:25:09 INFO  SMAPI] Mods go here: E:\Library\My Stuff\Games\Stardew Valley\Mods
-[12:25:09 TRACE SMAPI] Log started at 2022-07-20T05:25:09 UTC
-[12:25:12 DEBUG SMAPI] Waiting for game to launch...
-[12:25:12 TRACE game] NoFpsCap: This feature is not available
-[12:25:19 DEBUG SMAPI] Loading mod metadata...
-[12:25:19 DEBUG SMAPI] Loading mods...
-[12:25:20 TRACE SMAPI]    Ancient Fruit Won't Die in Winter (from Mods\AncientFruitWontDieInWinter\AncientFruitWontDieInWinter.dll)...
-[12:25:21 TRACE SMAPI]       Detected game patcher in assembly AncientFruitWontDieInWinter.dll.
-[12:25:21 TRACE SMAPI]    Automate (from Mods\Automate\Automate.dll)...
-[12:25:22 TRACE SMAPI]       Loading Automate.dll...
-[12:25:22 TRACE SMAPI]    AutomaticGates (from Mods\AutomaticGates\AutomaticGates.dll)...
-[12:25:22 TRACE SMAPI]    Better Crafting (from Mods\BetterCrafting\BetterCrafting.dll)...
-[12:25:22 TRACE SMAPI]       Detected game patcher in assembly BetterCrafting.dll.
-[12:25:22 TRACE SMAPI]    SpaceCore (from Mods\SpaceCore\SpaceCore.dll)...
-[12:25:22 TRACE SMAPI]       Detected game patcher in assembly SpaceCore.dll.
-[12:25:22 TRACE SMAPI]       Detected possible save serializer change (StardewValley.SaveGame.farmerSerializer field, StardewValley.SaveGame.serializer field, StardewValley.SaveGame.locationSerializer field) in assembly SpaceCore.dll.
-[12:25:22 TRACE SMAPI]    Better Crafting: SpaceCore Support (from Mods\BCSpaceCore\BCSpaceCore.dll)...
-[12:25:22 TRACE SMAPI]    Better Artisan Good Icons (from Mods\BetterArtisanGoodIcons\BetterArtisanGoodIcons.dll)...
-[12:25:22 TRACE SMAPI]       Rewrote BetterArtisanGoodIcons.dll for OS...
-[12:25:22 TRACE SMAPI]       Rewrote BetterArtisanGoodIcons.dll to fix 32-bit architecture...
-[12:25:22 TRACE SMAPI]       Rewrote BetterArtisanGoodIcons.dll to fix Harmony 1.x...
-[12:25:22 TRACE SMAPI]       Detected game patcher in assembly BetterArtisanGoodIcons.dll.
-[12:25:22 TRACE SMAPI]       Loading BetterArtisanGoodIcons.dll (rewritten)...
-[12:25:23 TRACE SMAPI]    Better Mixed Seeds (from Mods\BetterMixedSeeds\BetterMixedSeeds.dll)...
-[12:25:23 TRACE SMAPI]       Detected game patcher in assembly BetterMixedSeeds.dll.
-[12:25:23 TRACE SMAPI]    Billboard Anywhere (from Mods\BillboardAnywhere\BillboardAnywhere.dll)...
-[12:25:23 TRACE SMAPI]    Content Patcher (from Mods\ContentPatcher\ContentPatcher.dll)...
-[12:25:23 TRACE SMAPI]       Loading ContentPatcher.dll...
-[12:25:23 TRACE SMAPI]    Json Assets (from Mods\JsonAssets\JsonAssets.dll)...
-[12:25:23 TRACE SMAPI]       Detected game patcher in assembly JsonAssets.dll.
-[12:25:23 TRACE SMAPI]    Bug Net (from Mods\BugNet\BugNet.dll)...
-[12:25:23 TRACE SMAPI]    Chests Anywhere (from Mods\ChestsAnywhere\ChestsAnywhere.dll)...
-[12:25:24 TRACE SMAPI]       Loading ChestsAnywhere.dll...
-[12:25:24 TRACE SMAPI]    CJB Cheats Menu (from Mods\CJBCheatsMenu\CJBCheatsMenu.dll)...
-[12:25:24 TRACE SMAPI]    CJB Show Item Sell Price (from Mods\CJBShowItemSellPrice\CJBShowItemSellPrice.dll)...
-[12:25:24 TRACE SMAPI]    Console Commands (from Mods\ConsoleCommands\ConsoleCommands.dll)...
-[12:25:24 TRACE SMAPI]    Error Handler (from Mods\ErrorHandler\ErrorHandler.dll)...
-[12:25:24 TRACE SMAPI]       Detected game patcher in assembly ErrorHandler.dll.
-[12:25:24 TRACE SMAPI]    Experience Bars (from Mods\ExperienceBars\ExperienceBars.dll)...
-[12:25:24 TRACE SMAPI]    Fishing Assistant (from Mods\FishingAssistant\FishingAssistant.dll)...
-[12:25:24 TRACE SMAPI]       Rewrote FishingAssistant.dll for OS...
-[12:25:24 TRACE SMAPI]    Gift Taste Helper (from Mods\GiftTasteHelper\GiftTasteHelper.dll)...
-[12:25:24 TRACE SMAPI]       Rewrote GiftTasteHelper.dll for OS...
-[12:25:25 TRACE SMAPI]       Rewrote GiftTasteHelper.dll to fix IClickableMenu.drawTextureBox (added missing optional parameters)...
-[12:25:25 TRACE SMAPI]       Rewrote GiftTasteHelper.dll to fix 32-bit architecture...
-[12:25:25 TRACE SMAPI]    Health & Stamina Regeneration (from Mods\HealthStaminaRegen\HealthStaminaRegen.dll)...
-[12:25:25 TRACE SMAPI]       Rewrote HealthStaminaRegen.dll for OS...
-[12:25:25 TRACE SMAPI]    Lookup Anything (from Mods\LookupAnything\LookupAnything.dll)...
-[12:25:25 TRACE SMAPI]       Loading LookupAnything.dll...
-[12:25:25 TRACE SMAPI]    LovedLabels (from Mods\LovedLabels\LovedLabels.dll)...
-[12:25:26 TRACE SMAPI]       Rewrote LovedLabels.dll for OS...
-[12:25:26 TRACE SMAPI]       Rewrote LovedLabels.dll to fix 32-bit architecture...
-[12:25:26 TRACE SMAPI]    NPC Map Locations (from Mods\NPCMapLocations\NPCMapLocations.dll)...
-[12:25:26 TRACE SMAPI]       Loading NPCMapLocations.dll...
-[12:25:26 TRACE SMAPI]    ObjectProgressBars (from Mods\ObjectProgressBars\ObjectProgressBars.dll)...
-[12:25:26 TRACE SMAPI]       Rewrote ObjectProgressBars.dll for OS...
-[12:25:26 TRACE SMAPI]    PyTK (from Mods\PyTK\PyTK.dll)...
-[12:25:26 TRACE SMAPI]       Loading MoonSharp.Interpreter.dll...
-[12:25:26 TRACE SMAPI]       Loading NCalc.dll...
-[12:25:26 TRACE SMAPI]       Detected game patcher in assembly PyTK.dll.
-[12:25:26 TRACE SMAPI]       Detected possible save serializer change (StardewValley.SaveGame.farmerSerializer field, StardewValley.SaveGame.locationSerializer field, StardewValley.SaveGame.serializer field) in assembly PyTK.dll.
-[12:25:26 TRACE SMAPI]       Loading PyTK.dll...
-[12:25:26 TRACE SMAPI]    Range Highlight (from Mods\RangeHighlight\RangeHighlight.dll)...
-[12:25:26 TRACE SMAPI]    Save Anywhere (from Mods\SaveAnywhere\SaveAnywhere.dll)...
-[12:25:27 TRACE SMAPI]       Rewrote SaveAnywhere.dll for OS...
-[12:25:27 TRACE SMAPI]       Rewrote SaveAnywhere.dll to fix StartupPreferences.savePreferences (added missing optional parameters)...
-[12:25:27 TRACE SMAPI]    Save Backup (from Mods\SaveBackup\SaveBackup.dll)...
-[12:25:27 TRACE SMAPI]    Simple Crop Label (from Mods\SimpleCropLabel\SimpleCropLabel.dll)...
-[12:25:27 TRACE SMAPI]       Rewrote SimpleCropLabel.dll for OS...
-[12:25:27 TRACE SMAPI]    Skip Intro (from Mods\SkipIntro\SkipIntro.dll)...
-[12:25:27 TRACE SMAPI]    SkullCavernElevator (from Mods\SkullCavernElevator\SkullCavernElevator.dll)...
-[12:25:27 TRACE SMAPI]       Rewrote SkullCavernElevator.dll for OS...
-[12:25:27 TRACE SMAPI]    Chest Label System (from Mods\SMAPIChestLabelSystem\SMAPIChestLabelSystem.dll)...
-[12:25:27 TRACE SMAPI]       Rewrote SMAPIChestLabelSystem.dll for OS...
-[12:25:27 TRACE SMAPI]       Rewrote SMAPIChestLabelSystem.dll to fix Game1.options (field => property), Options.zoomLevel (field => property), Game1.keyboardDispatcher (field => property), Game1.currentLocation (field => property)...
-[12:25:27 TRACE SMAPI]       Rewrote SMAPIChestLabelSystem.dll to fix IClickableMenu.drawTextureBox (added missing optional parameters)...
-[12:25:27 TRACE SMAPI]    Smart Building (from Mods\SmartBuilding\SmartBuilding.dll)...
-[12:25:27 TRACE SMAPI]       Detected game patcher in assembly SmartBuilding.dll.
-[12:25:27 TRACE SMAPI]    Time Freeze (from Mods\TimeFreeze\TimeFreeze.dll)...
-[12:25:27 TRACE SMAPI]       Rewrote TimeFreeze.dll for OS...
-[12:25:27 TRACE SMAPI]       Rewrote TimeFreeze.dll to fix Game1.locations (field => property)...
-[12:25:27 TRACE SMAPI]    Tractor Mod (from Mods\TractorMod\TractorMod.dll)...
-[12:25:27 TRACE SMAPI]    Tree Transplant (from Mods\TreeTransplant\TreeTransplant.dll)...
-[12:25:27 TRACE SMAPI]       Rewrote TreeTransplant.dll for OS...
-[12:25:27 TRACE SMAPI]       Rewrote TreeTransplant.dll to fix SpriteBatch methods...
-[12:25:27 TRACE SMAPI]       Rewrote TreeTransplant.dll to fix 32-bit architecture...
-[12:25:27 TRACE SMAPI]    Visible Fish (from Mods\VisibleFish\showFishInWater.dll)...
-[12:25:27 TRACE SMAPI]       Detected game patcher in assembly showFishInWater.dll.
-[12:25:27 TRACE SMAPI]    What Are You Missing (from Mods\WhatAreYouMissing\WhatAreYouMissing.dll)...
-[12:25:27 TRACE SMAPI]       Rewrote WhatAreYouMissing.dll for OS...
-[12:25:27 TRACE SMAPI]       Rewrote WhatAreYouMissing.dll to fix SpriteBatch methods...
-[12:25:27 TRACE SMAPI]    Winter Grass (from Mods\WinterGrass\WinterGrass.dll)...
-[12:25:27 TRACE SMAPI]       Rewrote WinterGrass.dll for OS...
-[12:25:27 TRACE SMAPI]       Rewrote WinterGrass.dll to fix 32-bit architecture...
-[12:25:27 TRACE SMAPI]       Rewrote WinterGrass.dll to fix Harmony 1.x...
-[12:25:27 TRACE SMAPI]       Detected game patcher in assembly WinterGrass.dll.
-[12:25:27 TRACE SMAPI]    Better Water (from Mods\zBetter Water) [content pack]...
-[12:25:27 TRACE SMAPI]    Better Gems and Minerals (from Mods\[CP] Better Gems and Minerals) [content pack]...
-[12:25:27 TRACE SMAPI]    Elle's New Barn Animals (from Mods\[CP] Elle's New Barn Animals) [content pack]...
-[12:25:27 TRACE SMAPI]    Elle's New Coop Animals (from Mods\[CP] Elle's New Coop Animals) [content pack]...
-[12:25:27 TRACE SMAPI]    [CP] Iridium Recolors (from Mods\[CP] Iridium Recolors) [content pack]...
-[12:25:27 TRACE SMAPI]    Faithful Weapons (from Mods\[CP] Faithful Weapons) [content pack]...
-[12:25:27 TRACE SMAPI]    [CP] Forage of Ferngill (from Mods\[CP] Forage of Ferngill) [content pack]...
-[12:25:27 INFO  SMAPI] Loaded 40 mods:
-[12:25:27 INFO  SMAPI]    Ancient Fruit Won't Die in Winter 1.1.0 by cindyexe | Ancient fruit won't die winter, but won't grow or produce fruit.
-[12:25:27 INFO  SMAPI]    Automate 1.27.2 by Pathoschild | Lets you automate crafting machines, fruit trees, and more by connecting them to chests.
-[12:25:27 INFO  SMAPI]    AutomaticGates 2.5.3 by Rakiin aKa ScheKaa | Opens and closes gates automatically
-[12:25:27 INFO  SMAPI]    Better Artisan Good Icons 1.5.0 by Cat | Makes jelly, pickles, wine, juice, and honey icons be based on the fruit, vegetable, or flower used to make them.
-[12:25:27 INFO  SMAPI]    Better Crafting 1.1.1 by Khloe Leclair | Replaces the vanilla crafting menu with an improved reimplementation with support for favorites, categories, and that doesn't lock nearby chests in multiplayer.
-[12:25:27 INFO  SMAPI]    Better Crafting: SpaceCore Support 1.2.0 by Khloe Leclair | Adds support for SpaceCore recipes to Better Crafting.
-[12:25:27 INFO  SMAPI]    Better Mixed Seeds 3.0.6 by Satozaki | Adds ability for mixed seeds to drop anything
-[12:25:27 INFO  SMAPI]    Billboard Anywhere 1.12.0 by Alpha_Omegasis | Lets you view the billboard from anywhere.
-[12:25:27 INFO  SMAPI]    Bug Net 1.5.4 by spacechase0, ParadigmNomad, Keychain | Catch bugs and stuff.
-[12:25:27 INFO  SMAPI]    Chest Label System 1.7.0 | Allow players to label their chests.
-[12:25:27 INFO  SMAPI]    Chests Anywhere 1.22.2 by Pathoschild | Access your chests from anywhere and organize them your way.
-[12:25:27 INFO  SMAPI]    CJB Cheats Menu 1.31.0 by CJBok and Pathoschild | Simple in-game cheats menu!
-[12:25:27 INFO  SMAPI]    CJB Show Item Sell Price 1.9.15 by CJBok and Pathoschild | Show item sell price in your inventory!
-[12:25:27 INFO  SMAPI]    Console Commands 3.14.5 by SMAPI | Adds SMAPI console commands that let you manipulate the game.
-[12:25:27 INFO  SMAPI]    Content Patcher 1.26.6 by Pathoschild | Loads content packs which edit game data, images, and maps without changing the game files.
-[12:25:27 INFO  SMAPI]    Error Handler 3.14.5 by SMAPI | Handles some common vanilla errors to log more useful info or avoid breaking the game.
-[12:25:27 INFO  SMAPI]    Experience Bars 1.4.4 by spacechase0 | Shows experience bars in the top-left corner.
-[12:25:27 INFO  SMAPI]    Fishing Assistant 1.3.5 by KilZenc | Personal Fishing Assistant For You
-[12:25:27 INFO  SMAPI]    Gift Taste Helper 2.9.1 by tstaples (aka catman) | Displays NPC gift tastes in a handy tooltip.
-[12:25:27 INFO  SMAPI]    Health & Stamina Regeneration 2.0.2 by Jessebot | Health and Stamina will regenerate overtime
-[12:25:27 INFO  SMAPI]    Json Assets 1.10.4 by spacechase0 | Lets content packs add custom content to the game.
-[12:25:27 INFO  SMAPI]    Lookup Anything 1.37.2 by Pathoschild | View metadata about anything by pressing a button.
-[12:25:27 INFO  SMAPI]    LovedLabels 2.2.2-unofficial.4-Strobe by Advize & Jinxiewinxie | Gives pets customizable tooltips so you can see who needs the love.
-[12:25:27 INFO  SMAPI]    NPC Map Locations 2.9.3 by Bouhm | Shows NPCs and farmers on a modified map page for accurate tracking.
-[12:25:27 INFO  SMAPI]    ObjectProgressBars 1.4.0 by Adeel Tariq | Show progress bar on machines and such
-[12:25:28 INFO  SMAPI]    PyTK 1.23.0 by Platonymous | Platonymous Toolkit
-[12:25:28 INFO  SMAPI]    Range Highlight 3.3.0 by Jamie Taylor | Highlights ranges for scarecrows, sprinklers, etc.
-[12:25:28 INFO  SMAPI]    Save Anywhere 2.13.0 by Alpha_Omegasis | Lets you save almost anywhere.
-[12:25:28 INFO  SMAPI]    Save Backup 3.14.5 by SMAPI | Automatically backs up all your saves once per day into its folder.
-[12:25:28 INFO  SMAPI]    Simple Crop Label 5.5.7 by TheMusketeer | Identify crops and trees on farm
-[12:25:28 INFO  SMAPI]    Skip Intro 1.9.9 by Pathoschild | Skips the game's loading intro.
-[12:25:28 INFO  SMAPI]    SkullCavernElevator 1.4.0 by lestoph | Elevator for the Skull Cavern
-[12:25:28 INFO  SMAPI]    Smart Building 1.6.1 by DecidedlyHuman | Allows you to build fences/walls/paths, etc. in a much more streamlined way.
-[12:25:28 INFO  SMAPI]    SpaceCore 1.8.3 by spacechase0 | A framework mod used by some of my other mods.
-[12:25:28 INFO  SMAPI]    Time Freeze 1.9.1 by Alpha_Omegasis | Emulates old Harvest Moon aka (Story of Seasons) style games where time is frozen inside.
-[12:25:28 INFO  SMAPI]    Tractor Mod 4.15.4 by Pathoschild | Lets you buy a tractor to more efficiently work with crops, clear twigs and rocks, etc.
-[12:25:28 INFO  SMAPI]    Tree Transplant 1.0.13 by LeonBlade | Allows you to transplant trees in game.
-[12:25:28 INFO  SMAPI]    Visible Fish 0.3.5 by shekurika | Shows fish in the water
-[12:25:28 INFO  SMAPI]    What Are You Missing 2.6.2 by PrivateButtface | Tells you what items you're missing that are specific to the day/season (and how to get it if it's a fish!) as well as what you're missing from the community center that is available (broken down into items specific to the current season and common in all seasons).
-[12:25:28 INFO  SMAPI]    Winter Grass 2.0.3 by Cat | Grass will stay around in winter.
+[21:15:15 INFO  SMAPI] SMAPI 3.14.5 with Stardew Valley 1.5.6 (build 22018) on Microsoft Windows 10 Pro
+[21:15:15 INFO  SMAPI] Mods go here: E:\Play Games\Stardew Valley\Mods
+[21:15:15 TRACE SMAPI] Log started at 2022-07-20T14:15:15 UTC
+[21:15:22 DEBUG SMAPI] Waiting for game to launch...
+[21:15:23 TRACE game] NoFpsCap: This feature is not available
+[21:15:28 DEBUG SMAPI] Loading mod metadata...
+[21:15:29 DEBUG SMAPI] Loading mods...
+[21:15:29 TRACE SMAPI]    Ancient Fruit Won't Die in Winter (from Mods\AncientFruitWontDieInWinter\AncientFruitWontDieInWinter.dll)...
+[21:15:29 TRACE SMAPI]       Detected game patcher in assembly AncientFruitWontDieInWinter.dll.
+[21:15:29 TRACE SMAPI]    Automate (from Mods\Automate\Automate.dll)...
+[21:15:30 TRACE SMAPI]       Loading Automate.dll...
+[21:15:30 TRACE SMAPI]    AutomaticGates (from Mods\AutomaticGates\AutomaticGates.dll)...
+[21:15:30 TRACE SMAPI]    Better Crafting (from Mods\BetterCrafting\BetterCrafting.dll)...
+[21:15:30 TRACE SMAPI]       Detected game patcher in assembly BetterCrafting.dll.
+[21:15:30 TRACE SMAPI]    SpaceCore (from Mods\SpaceCore\SpaceCore.dll)...
+[21:15:31 TRACE SMAPI]       Detected game patcher in assembly SpaceCore.dll.
+[21:15:31 TRACE SMAPI]       Detected possible save serializer change (StardewValley.SaveGame.farmerSerializer field, StardewValley.SaveGame.serializer field, StardewValley.SaveGame.locationSerializer field) in assembly SpaceCore.dll.
+[21:15:31 TRACE SMAPI]    Better Crafting: SpaceCore Support (from Mods\BCSpaceCore\BCSpaceCore.dll)...
+[21:15:31 TRACE SMAPI]    Better Artisan Good Icons (from Mods\BetterArtisanGoodIcons\BetterArtisanGoodIcons.dll)...
+[21:15:31 TRACE SMAPI]       Rewrote BetterArtisanGoodIcons.dll for OS...
+[21:15:31 TRACE SMAPI]       Rewrote BetterArtisanGoodIcons.dll to fix 32-bit architecture...
+[21:15:31 TRACE SMAPI]       Rewrote BetterArtisanGoodIcons.dll to fix Harmony 1.x...
+[21:15:31 TRACE SMAPI]       Detected game patcher in assembly BetterArtisanGoodIcons.dll.
+[21:15:31 TRACE SMAPI]       Loading BetterArtisanGoodIcons.dll (rewritten)...
+[21:15:31 TRACE SMAPI]    Better Mixed Seeds (from Mods\BetterMixedSeeds\BetterMixedSeeds.dll)...
+[21:15:31 TRACE SMAPI]       Detected game patcher in assembly BetterMixedSeeds.dll.
+[21:15:31 TRACE SMAPI]    Billboard Anywhere (from Mods\BillboardAnywhere\BillboardAnywhere.dll)...
+[21:15:31 TRACE SMAPI]    Content Patcher (from Mods\ContentPatcher\ContentPatcher.dll)...
+[21:15:32 TRACE SMAPI]       Loading ContentPatcher.dll...
+[21:15:32 TRACE SMAPI]    Json Assets (from Mods\JsonAssets\JsonAssets.dll)...
+[21:15:32 TRACE SMAPI]       Detected game patcher in assembly JsonAssets.dll.
+[21:15:32 TRACE SMAPI]    Bug Net (from Mods\BugNet\BugNet.dll)...
+[21:15:33 TRACE SMAPI]    Chests Anywhere (from Mods\ChestsAnywhere\ChestsAnywhere.dll)...
+[21:15:33 TRACE SMAPI]       Loading ChestsAnywhere.dll...
+[21:15:33 TRACE SMAPI]    CJB Cheats Menu (from Mods\CJBCheatsMenu\CJBCheatsMenu.dll)...
+[21:15:33 TRACE SMAPI]    CJB Item Spawner (from Mods\CJBItemSpawner\CJBItemSpawner.dll)...
+[21:15:33 TRACE SMAPI]    CJB Show Item Sell Price (from Mods\CJBShowItemSellPrice\CJBShowItemSellPrice.dll)...
+[21:15:33 TRACE SMAPI]    Console Commands (from Mods\ConsoleCommands\ConsoleCommands.dll)...
+[21:15:34 TRACE SMAPI]    Error Handler (from Mods\ErrorHandler\ErrorHandler.dll)...
+[21:15:34 TRACE SMAPI]       Detected game patcher in assembly ErrorHandler.dll.
+[21:15:34 TRACE SMAPI]    Experience Bars (from Mods\ExperienceBars\ExperienceBars.dll)...
+[21:15:34 TRACE SMAPI]    Fishing Assistant (from Mods\FishingAssistant\FishingAssistant.dll)...
+[21:15:34 TRACE SMAPI]       Rewrote FishingAssistant.dll for OS...
+[21:15:34 TRACE SMAPI]    Gift Taste Helper (from Mods\GiftTasteHelper\GiftTasteHelper.dll)...
+[21:15:34 TRACE SMAPI]       Rewrote GiftTasteHelper.dll for OS...
+[21:15:34 TRACE SMAPI]       Rewrote GiftTasteHelper.dll to fix IClickableMenu.drawTextureBox (added missing optional parameters)...
+[21:15:34 TRACE SMAPI]       Rewrote GiftTasteHelper.dll to fix 32-bit architecture...
+[21:15:35 TRACE SMAPI]    Health & Stamina Regeneration (from Mods\HealthStaminaRegen\HealthStaminaRegen.dll)...
+[21:15:35 TRACE SMAPI]       Rewrote HealthStaminaRegen.dll for OS...
+[21:15:35 TRACE SMAPI]    Lookup Anything (from Mods\LookupAnything\LookupAnything.dll)...
+[21:15:35 TRACE SMAPI]       Loading LookupAnything.dll...
+[21:15:35 TRACE SMAPI]    LovedLabels (from Mods\LovedLabels\LovedLabels.dll)...
+[21:15:35 TRACE SMAPI]       Rewrote LovedLabels.dll for OS...
+[21:15:35 TRACE SMAPI]       Rewrote LovedLabels.dll to fix 32-bit architecture...
+[21:15:35 TRACE SMAPI]    NPC Map Locations (from Mods\NPCMapLocations\NPCMapLocations.dll)...
+[21:15:36 TRACE SMAPI]       Loading NPCMapLocations.dll...
+[21:15:36 TRACE SMAPI]    ObjectProgressBars (from Mods\ObjectProgressBars\ObjectProgressBars.dll)...
+[21:15:36 TRACE SMAPI]       Rewrote ObjectProgressBars.dll for OS...
+[21:15:36 TRACE SMAPI]    PyTK (from Mods\PyTK\PyTK.dll)...
+[21:15:37 TRACE SMAPI]       Loading MoonSharp.Interpreter.dll...
+[21:15:37 TRACE SMAPI]       Loading NCalc.dll...
+[21:15:37 TRACE SMAPI]       Detected game patcher in assembly PyTK.dll.
+[21:15:37 TRACE SMAPI]       Detected possible save serializer change (StardewValley.SaveGame.farmerSerializer field, StardewValley.SaveGame.locationSerializer field, StardewValley.SaveGame.serializer field) in assembly PyTK.dll.
+[21:15:37 TRACE SMAPI]       Loading PyTK.dll...
+[21:15:37 TRACE SMAPI]    Range Highlight (from Mods\RangeHighlight\RangeHighlight.dll)...
+[21:15:37 TRACE SMAPI]    Save Anywhere (from Mods\SaveAnywhere\SaveAnywhere.dll)...
+[21:15:37 TRACE SMAPI]       Rewrote SaveAnywhere.dll for OS...
+[21:15:37 TRACE SMAPI]       Rewrote SaveAnywhere.dll to fix StartupPreferences.savePreferences (added missing optional parameters)...
+[21:15:37 TRACE SMAPI]    Save Backup (from Mods\SaveBackup\SaveBackup.dll)...
+[21:15:38 TRACE SMAPI]    Simple Crop Label (from Mods\SimpleCropLabel\SimpleCropLabel.dll)...
+[21:15:38 TRACE SMAPI]       Rewrote SimpleCropLabel.dll for OS...
+[21:15:38 TRACE SMAPI]    Skip Intro (from Mods\SkipIntro\SkipIntro.dll)...
+[21:15:38 TRACE SMAPI]    SkullCavernElevator (from Mods\SkullCavernElevator\SkullCavernElevator.dll)...
+[21:15:38 TRACE SMAPI]       Rewrote SkullCavernElevator.dll for OS...
+[21:15:38 TRACE SMAPI]    Chest Label System (from Mods\SMAPIChestLabelSystem\SMAPIChestLabelSystem.dll)...
+[21:15:38 TRACE SMAPI]       Rewrote SMAPIChestLabelSystem.dll for OS...
+[21:15:38 TRACE SMAPI]       Rewrote SMAPIChestLabelSystem.dll to fix Game1.options (field => property), Options.zoomLevel (field => property), Game1.keyboardDispatcher (field => property), Game1.currentLocation (field => property)...
+[21:15:38 TRACE SMAPI]       Rewrote SMAPIChestLabelSystem.dll to fix IClickableMenu.drawTextureBox (added missing optional parameters)...
+[21:15:38 TRACE SMAPI]    Smart Building (from Mods\SmartBuilding\SmartBuilding.dll)...
+[21:15:38 TRACE SMAPI]       Detected game patcher in assembly SmartBuilding.dll.
+[21:15:38 TRACE SMAPI]    Time Freeze (from Mods\TimeFreeze\TimeFreeze.dll)...
+[21:15:38 TRACE SMAPI]       Rewrote TimeFreeze.dll for OS...
+[21:15:38 TRACE SMAPI]       Rewrote TimeFreeze.dll to fix Game1.locations (field => property)...
+[21:15:39 TRACE SMAPI]    Tractor Mod (from Mods\TractorMod\TractorMod.dll)...
+[21:15:39 TRACE SMAPI]    Tree Transplant (from Mods\TreeTransplant\TreeTransplant.dll)...
+[21:15:39 TRACE SMAPI]       Rewrote TreeTransplant.dll for OS...
+[21:15:39 TRACE SMAPI]       Rewrote TreeTransplant.dll to fix SpriteBatch methods...
+[21:15:39 TRACE SMAPI]       Rewrote TreeTransplant.dll to fix 32-bit architecture...
+[21:15:39 TRACE SMAPI]    Visible Fish (from Mods\VisibleFish\showFishInWater.dll)...
+[21:15:39 TRACE SMAPI]       Detected game patcher in assembly showFishInWater.dll.
+[21:15:39 TRACE SMAPI]    What Are You Missing (from Mods\WhatAreYouMissing\WhatAreYouMissing.dll)...
+[21:15:39 TRACE SMAPI]       Rewrote WhatAreYouMissing.dll for OS...
+[21:15:39 TRACE SMAPI]       Rewrote WhatAreYouMissing.dll to fix SpriteBatch methods...
+[21:15:40 TRACE SMAPI]    Winter Grass (from Mods\WinterGrass\WinterGrass.dll)...
+[21:15:40 TRACE SMAPI]       Rewrote WinterGrass.dll for OS...
+[21:15:40 TRACE SMAPI]       Rewrote WinterGrass.dll to fix 32-bit architecture...
+[21:15:40 TRACE SMAPI]       Rewrote WinterGrass.dll to fix Harmony 1.x...
+[21:15:40 TRACE SMAPI]       Detected game patcher in assembly WinterGrass.dll.
+[21:15:40 TRACE SMAPI]    Better Water (from Mods\zBetter Water) [content pack]...
+[21:15:40 TRACE SMAPI]    Better Gems and Minerals (from Mods\[CP] Better Gems and Minerals) [content pack]...
+[21:15:40 TRACE SMAPI]    Elle's New Barn Animals (from Mods\[CP] Elle's New Barn Animals) [content pack]...
+[21:15:40 TRACE SMAPI]    Elle's New Coop Animals (from Mods\[CP] Elle's New Coop Animals) [content pack]...
+[21:15:40 TRACE SMAPI]    [CP] Iridium Recolors (from Mods\[CP] Iridium Recolors) [content pack]...
+[21:15:40 TRACE SMAPI]    Faithful Weapons (from Mods\[CP] Faithful Weapons) [content pack]...
+[21:15:40 TRACE SMAPI]    [CP] Forage of Ferngill (from Mods\[CP] Forage of Ferngill) [content pack]...
+[21:15:40 INFO  SMAPI] Loaded 41 mods:
+[21:15:40 INFO  SMAPI]    Ancient Fruit Won't Die in Winter 1.1.0 by cindyexe | Ancient fruit won't die winter, but won't grow or produce fruit.
+[21:15:40 INFO  SMAPI]    Automate 1.27.2 by Pathoschild | Lets you automate crafting machines, fruit trees, and more by connecting them to chests.
+[21:15:40 INFO  SMAPI]    AutomaticGates 2.5.3 by Rakiin aKa ScheKaa | Opens and closes gates automatically
+[21:15:40 INFO  SMAPI]    Better Artisan Good Icons 1.5.0 by Cat | Makes jelly, pickles, wine, juice, and honey icons be based on the fruit, vegetable, or flower used to make them.
+[21:15:40 INFO  SMAPI]    Better Crafting 1.1.1 by Khloe Leclair | Replaces the vanilla crafting menu with an improved reimplementation with support for favorites, categories, and that doesn't lock nearby chests in multiplayer.
+[21:15:40 INFO  SMAPI]    Better Crafting: SpaceCore Support 1.2.0 by Khloe Leclair | Adds support for SpaceCore recipes to Better Crafting.
+[21:15:40 INFO  SMAPI]    Better Mixed Seeds 3.0.6 by Satozaki | Adds ability for mixed seeds to drop anything
+[21:15:40 INFO  SMAPI]    Billboard Anywhere 1.12.0 by Alpha_Omegasis | Lets you view the billboard from anywhere.
+[21:15:40 INFO  SMAPI]    Bug Net 1.5.4 by spacechase0, ParadigmNomad, Keychain | Catch bugs and stuff.
+[21:15:40 INFO  SMAPI]    Chest Label System 1.7.0 | Allow players to label their chests.
+[21:15:40 INFO  SMAPI]    Chests Anywhere 1.22.2 by Pathoschild | Access your chests from anywhere and organize them your way.
+[21:15:40 INFO  SMAPI]    CJB Cheats Menu 1.31.0 by CJBok and Pathoschild | Simple in-game cheats menu!
+[21:15:40 INFO  SMAPI]    CJB Item Spawner 2.1.7 by CJBok and Pathoschild | Simple in-game item spawner!
+[21:15:40 INFO  SMAPI]    CJB Show Item Sell Price 1.9.15 by CJBok and Pathoschild | Show item sell price in your inventory!
+[21:15:40 INFO  SMAPI]    Console Commands 3.14.5 by SMAPI | Adds SMAPI console commands that let you manipulate the game.
+[21:15:40 INFO  SMAPI]    Content Patcher 1.26.6 by Pathoschild | Loads content packs which edit game data, images, and maps without changing the game files.
+[21:15:40 INFO  SMAPI]    Error Handler 3.14.5 by SMAPI | Handles some common vanilla errors to log more useful info or avoid breaking the game.
+[21:15:40 INFO  SMAPI]    Experience Bars 1.4.4 by spacechase0 | Shows experience bars in the top-left corner.
+[21:15:40 INFO  SMAPI]    Fishing Assistant 1.3.5 by KilZenc | Personal Fishing Assistant For You
+[21:15:40 INFO  SMAPI]    Gift Taste Helper 2.9.1 by tstaples (aka catman) | Displays NPC gift tastes in a handy tooltip.
+[21:15:40 INFO  SMAPI]    Health & Stamina Regeneration 2.0.2 by Jessebot | Health and Stamina will regenerate overtime
+[21:15:40 INFO  SMAPI]    Json Assets 1.10.4 by spacechase0 | Lets content packs add custom content to the game.
+[21:15:40 INFO  SMAPI]    Lookup Anything 1.37.2 by Pathoschild | View metadata about anything by pressing a button.
+[21:15:40 INFO  SMAPI]    LovedLabels 2.2.2-unofficial.4-Strobe by Advize & Jinxiewinxie | Gives pets customizable tooltips so you can see who needs the love.
+[21:15:40 INFO  SMAPI]    NPC Map Locations 2.9.3 by Bouhm | Shows NPCs and farmers on a modified map page for accurate tracking.
+[21:15:40 INFO  SMAPI]    ObjectProgressBars 1.4.0 by Adeel Tariq | Show progress bar on machines and such
+[21:15:40 INFO  SMAPI]    PyTK 1.23.0 by Platonymous | Platonymous Toolkit
+[21:15:40 INFO  SMAPI]    Range Highlight 3.3.0 by Jamie Taylor | Highlights ranges for scarecrows, sprinklers, etc.
+[21:15:40 INFO  SMAPI]    Save Anywhere 2.13.0 by Alpha_Omegasis | Lets you save almost anywhere.
+[21:15:40 INFO  SMAPI]    Save Backup 3.14.5 by SMAPI | Automatically backs up all your saves once per day into its folder.
+[21:15:40 INFO  SMAPI]    Simple Crop Label 5.5.7 by TheMusketeer | Identify crops and trees on farm
+[21:15:40 INFO  SMAPI]    Skip Intro 1.9.9 by Pathoschild | Skips the game's loading intro.
+[21:15:40 INFO  SMAPI]    SkullCavernElevator 1.4.0 by lestoph | Elevator for the Skull Cavern
+[21:15:40 INFO  SMAPI]    Smart Building 1.6.1 by DecidedlyHuman | Allows you to build fences/walls/paths, etc. in a much more streamlined way.
+[21:15:40 INFO  SMAPI]    SpaceCore 1.8.3 by spacechase0 | A framework mod used by some of my other mods.
+[21:15:40 INFO  SMAPI]    Time Freeze 1.9.1 by Alpha_Omegasis | Emulates old Harvest Moon aka (Story of Seasons) style games where time is frozen inside.
+[21:15:40 INFO  SMAPI]    Tractor Mod 4.15.4 by Pathoschild | Lets you buy a tractor to more efficiently work with crops, clear twigs and rocks, etc.
+[21:15:40 INFO  SMAPI]    Tree Transplant 1.0.13 by LeonBlade | Allows you to transplant trees in game.
+[21:15:40 INFO  SMAPI]    Visible Fish 0.3.5 by shekurika | Shows fish in the water
+[21:15:40 INFO  SMAPI]    What Are You Missing 2.6.2 by PrivateButtface | Tells you what items you're missing that are specific to the day/season (and how to get it if it's a fish!) as well as what you're missing from the community center that is available (broken down into items specific to the current season and common in all seasons).
+[21:15:40 INFO  SMAPI]    Winter Grass 2.0.3 by Cat | Grass will stay around in winter.
 
-[12:25:28 INFO  SMAPI] Loaded 7 content packs:
-[12:25:28 INFO  SMAPI]    [CP] Forage of Ferngill 3.2.3 by Stunky McDoo | for Content Patcher | Expands on the the Foraging experience of Stardew Valley! Adds several new forageables. Also JA
-[12:25:28 INFO  SMAPI]    [CP] Iridium Recolors 1.0.0 by 6480 | for Content Patcher | Turns iridium objects and various other purple objects into different colors.
-[12:25:28 INFO  SMAPI]    Better Gems and Minerals 1.0.1 by cometkins | for Content Patcher | Nicer looking gems and minerals.
-[12:25:28 INFO  SMAPI]    Better Water 3.3.1 by Nioffe | for Content Patcher | Water is more realistic
-[12:25:28 INFO  SMAPI]    Elle's New Barn Animals 1.1.3 by Elle/Junimods | for Content Patcher | A CP replacement for all your barn animals!
-[12:25:28 INFO  SMAPI]    Elle's New Coop Animals 1.1.5 by Elle/Junimods | for Content Patcher | A CP replacement for all your coop animals!
-[12:25:28 INFO  SMAPI]    Faithful Weapons 1.0.4 by herbivoor | for Content Patcher | A 32x32 upscaled retexture of all the obtainable weapons in the game, in an RPG-inspired style that tries to stay faithful to ConcernedApe's original designs and concepts.
+[21:15:40 INFO  SMAPI] Loaded 7 content packs:
+[21:15:40 INFO  SMAPI]    [CP] Forage of Ferngill 3.2.3 by Stunky McDoo | for Content Patcher | Expands on the the Foraging experience of Stardew Valley! Adds several new forageables. Also JA
+[21:15:40 INFO  SMAPI]    [CP] Iridium Recolors 1.0.0 by 6480 | for Content Patcher | Turns iridium objects and various other purple objects into different colors.
+[21:15:40 INFO  SMAPI]    Better Gems and Minerals 1.0.1 by cometkins | for Content Patcher | Nicer looking gems and minerals.
+[21:15:40 INFO  SMAPI]    Better Water 3.3.1 by Nioffe | for Content Patcher | Water is more realistic
+[21:15:40 INFO  SMAPI]    Elle's New Barn Animals 1.1.3 by Elle/Junimods | for Content Patcher | A CP replacement for all your barn animals!
+[21:15:40 INFO  SMAPI]    Elle's New Coop Animals 1.1.5 by Elle/Junimods | for Content Patcher | A CP replacement for all your coop animals!
+[21:15:40 INFO  SMAPI]    Faithful Weapons 1.0.4 by herbivoor | for Content Patcher | A 32x32 upscaled retexture of all the obtainable weapons in the game, in an RPG-inspired style that tries to stay faithful to ConcernedApe's original designs and concepts.
 
-[12:25:28 INFO  SMAPI] Found 11 mods with warnings:
-[12:25:28 WARN  SMAPI]    Changed save serializer
-[12:25:28 WARN  SMAPI]    --------------------------------------------------
-[12:25:28 WARN  SMAPI]       These mods change the save serializer. They may corrupt your save files, or make them unusable if
-[12:25:28 WARN  SMAPI]       you uninstall these mods.
+[21:15:40 INFO  SMAPI] Found 11 mods with warnings:
+[21:15:40 WARN  SMAPI]    Changed save serializer
+[21:15:40 WARN  SMAPI]    --------------------------------------------------
+[21:15:40 WARN  SMAPI]       These mods change the save serializer. They may corrupt your save files, or make them unusable if
+[21:15:40 WARN  SMAPI]       you uninstall these mods.
 
-[12:25:28 WARN  SMAPI]       - PyTK
-[12:25:28 WARN  SMAPI]       - SpaceCore
+[21:15:40 WARN  SMAPI]       - PyTK
+[21:15:40 WARN  SMAPI]       - SpaceCore
 
-[12:25:28 INFO  SMAPI]    Patched game code
-[12:25:28 INFO  SMAPI]    --------------------------------------------------
-[12:25:28 INFO  SMAPI]       These mods directly change the game code. They're more likely to cause errors or bugs in-game; if
-[12:25:28 INFO  SMAPI]       your game has issues, try removing these first. Otherwise you can ignore this warning.
+[21:15:40 INFO  SMAPI]    Patched game code
+[21:15:40 INFO  SMAPI]    --------------------------------------------------
+[21:15:40 INFO  SMAPI]       These mods directly change the game code. They're more likely to cause errors or bugs in-game; if
+[21:15:40 INFO  SMAPI]       your game has issues, try removing these first. Otherwise you can ignore this warning.
 
-[12:25:28 INFO  SMAPI]       - Ancient Fruit Won't Die in Winter
-[12:25:28 INFO  SMAPI]       - Better Artisan Good Icons
-[12:25:28 INFO  SMAPI]       - Better Crafting
-[12:25:28 INFO  SMAPI]       - Better Mixed Seeds
-[12:25:28 INFO  SMAPI]       - Json Assets
-[12:25:28 INFO  SMAPI]       - PyTK
-[12:25:28 INFO  SMAPI]       - Smart Building
-[12:25:28 INFO  SMAPI]       - SpaceCore
-[12:25:28 INFO  SMAPI]       - Visible Fish
-[12:25:28 INFO  SMAPI]       - Winter Grass
+[21:15:40 INFO  SMAPI]       - Ancient Fruit Won't Die in Winter
+[21:15:40 INFO  SMAPI]       - Better Artisan Good Icons
+[21:15:40 INFO  SMAPI]       - Better Crafting
+[21:15:40 INFO  SMAPI]       - Better Mixed Seeds
+[21:15:40 INFO  SMAPI]       - Json Assets
+[21:15:40 INFO  SMAPI]       - PyTK
+[21:15:40 INFO  SMAPI]       - Smart Building
+[21:15:40 INFO  SMAPI]       - SpaceCore
+[21:15:40 INFO  SMAPI]       - Visible Fish
+[21:15:40 INFO  SMAPI]       - Winter Grass
 
-[12:25:28 DEBUG SMAPI]    No update keys
-[12:25:28 DEBUG SMAPI]    --------------------------------------------------
-[12:25:28 DEBUG SMAPI]       These mods have no update keys in their manifest. SMAPI may not notify you about updates for these
-[12:25:28 DEBUG SMAPI]       mods. Consider notifying the mod authors about this problem.
+[21:15:40 DEBUG SMAPI]    No update keys
+[21:15:40 DEBUG SMAPI]    --------------------------------------------------
+[21:15:40 DEBUG SMAPI]       These mods have no update keys in their manifest. SMAPI may not notify you about updates for these
+[21:15:40 DEBUG SMAPI]       mods. Consider notifying the mod authors about this problem.
 
-[12:25:28 DEBUG SMAPI]       - [CP] Iridium Recolors
+[21:15:40 DEBUG SMAPI]       - [CP] Iridium Recolors
 
-[12:25:28 DEBUG SMAPI] Launching mods...
-[12:25:28 TRACE SMAPI]    Found mod-provided API (Pathoschild.Stardew.Automate.Framework.AutomateAPI).
-[12:25:28 TRACE Better Crafting] Registering event ModEntry.OnMenuChanged for event MenuChanged
-[12:25:28 TRACE Better Crafting] Registering event ModEntry.OnGameLaunched for event GameLaunched
-[12:25:28 TRACE Better Crafting] Registering event ModEntry.OnSaveLoaded for event SaveLoaded
-[12:25:28 TRACE Better Crafting] Registering event ModEntry.OnReturnToTitle for event ReturnedToTitle
-[12:25:28 TRACE Better Crafting] [ThemeManager] Using Theme Manager 3.0.0
-[12:25:28 TRACE Better Crafting] [ThemeManager] Content Patcher is present. Asset redirection will be enabled.
-[12:25:28 TRACE Better Crafting] [ThemeManager] Found Embedded Theme At: E:\Library\My Stuff\Games\Stardew Valley\Mods\BetterCrafting\assets\themes\OvergrownFlowery
-[12:25:28 TRACE SMAPI] Better Crafting created dynamic content pack 'Better Crafting' (unique ID: leclair.bettercrafting.theme-loader, path: BetterCrafting).
-[12:25:28 TRACE Better Crafting] [ThemeManager] Found Embedded Theme: Overgrown Flowery Interface (embedded.OvergrownFlowery)
-[12:25:28 TRACE Better Crafting] [ThemeManager] Found Embedded Theme At: E:\Library\My Stuff\Games\Stardew Valley\Mods\BetterCrafting\assets\themes\StarrySky
-[12:25:28 TRACE Better Crafting] [ThemeManager] Found Embedded Theme: Starry Sky (embedded.StarrySky)
-[12:25:28 TRACE Better Crafting] [ThemeManager] Found Embedded Theme At: E:\Library\My Stuff\Games\Stardew Valley\Mods\BetterCrafting\assets\themes\VintageInterface1
-[12:25:28 TRACE Better Crafting] [ThemeManager] Found Embedded Theme: Vintage Interface 1 (embedded.VintageInterface1)
-[12:25:28 TRACE Better Crafting] [ThemeManager] Found Embedded Theme At: E:\Library\My Stuff\Games\Stardew Valley\Mods\BetterCrafting\assets\themes\VintageInterface2
-[12:25:28 TRACE Better Crafting] [ThemeManager] Found Embedded Theme: Vintage Interface 2 (embedded.VintageInterface2)
-[12:25:28 TRACE Better Crafting] [ThemeManager] Found 4 Embedded Themes.
-[12:25:28 TRACE Better Crafting] [ThemeManager] Found 0 External Themes
-[12:25:29 TRACE Better Crafting] [ThemeManager] Selected Theme: automatic => Default (default)
-[12:25:29 TRACE Better Crafting] Requested cache invalidation for all assets matching a predicate.
-[12:25:29 TRACE SMAPI] Invalidated 0 cache entries.
-[12:25:29 TRACE SMAPI]    Found mod-provided API (Leclair.Stardew.BetterCrafting.ModAPI).
-[12:25:29 TRACE SpaceCore] Found crafting recipe constructor in Void layoutRecipes(System.Collections.Generic.List`1[System.String])!
-[12:25:29 TRACE SpaceCore] Found first ldloc.s for ClickableTextureComponent in Void layoutRecipes(System.Collections.Generic.List`1[System.String]); storing potential override w/ recipeLocal=StardewValley.CraftingRecipe (9)
-[12:25:29 TRACE SpaceCore] Found crafting recipe constructor in System.String createDescription(Int32)!
-[12:25:29 TRACE SMAPI]    Found mod-provided API (SpaceCore.Api).
-[12:25:29 TRACE Better Crafting: SpaceCore Support] Registering event ModEntry.OnGameLaunched for event GameLaunched
-[12:25:30 TRACE SMAPI]    Found mod-provided API (BetterMixedSeeds.Api).
-[12:25:30 TRACE SMAPI]    Found mod-provided API (ContentPatcher.Framework.ContentPatcherAPI).
-[12:25:30 TRACE SMAPI] Json Assets edited Maps/springobjects.
-[12:25:30 TRACE SMAPI] Json Assets edited TileSheets/Craftables.
-[12:25:30 TRACE SMAPI] Json Assets edited TileSheets/crops.
-[12:25:30 TRACE SMAPI] Json Assets edited TileSheets/fruitTrees.
-[12:25:30 TRACE SMAPI] Json Assets edited Characters/Farmer/shirts.
-[12:25:30 TRACE SMAPI] Json Assets edited Characters/Farmer/pants.
-[12:25:30 TRACE SMAPI] Json Assets edited Characters/Farmer/hats.
-[12:25:30 TRACE SMAPI]    Found mod-provided API (JsonAssets.Api).
-[12:25:31 TRACE SMAPI]    Found mod-provided API (BugNet.Framework.BugNetApi).
-[12:25:31 TRACE SMAPI]    Found mod-provided API (Pathoschild.Stardew.ChestsAnywhere.Framework.ChestsAnywhereApi).
-[12:25:31 TRACE CJB Cheats Menu] Started with menu key P.
-[12:25:31 TRACE SMAPI]    Found mod-provided API (ExperienceBars.Api).
-[12:25:31 INFO  Fishing Assistant] Initialized (press F8 to reload config)
-[12:25:31 TRACE PyTK] Patching: Assembly
-[12:25:31 TRACE PyTK] Patching: Load
-[12:25:31 TRACE PyTK] Patching: Serializers
-[12:25:31 TRACE PyTK] Patching: GameLocation Constructors
-[12:25:31 TRACE PyTK] Patching: Serializers Assembly
-[12:25:31 TRACE PyTK] Patching: FromStream
-[12:25:31 INFO  PyTK] FromStream(GraphicsDevice graphicsDevice,Stream stream)
-[12:25:31 INFO  PyTK] get_Bounds()
-[12:25:31 INFO  PyTK] get_Width()
-[12:25:31 INFO  PyTK] get_Height()
-[12:25:31 INFO  PyTK] get_Format()
-[12:25:31 INFO  PyTK] get_LevelCount()
-[12:25:31 INFO  PyTK] get_GraphicsDevice()
-[12:25:31 INFO  PyTK] get_IsDisposed()
-[12:25:31 INFO  PyTK] get_Name()
-[12:25:31 INFO  PyTK] set_Name(String value)
-[12:25:31 INFO  PyTK] get_Tag()
-[12:25:31 INFO  PyTK] set_Tag(Object value)
-[12:25:31 INFO  PyTK] SetData(Int32 level,Int32 arraySlice,Nullable`1 rect,T[] data,Int32 startIndex,Int32 elementCount)
-[12:25:31 INFO  PyTK] SetData(Int32 level,Nullable`1 rect,T[] data,Int32 startIndex,Int32 elementCount)
-[12:25:31 INFO  PyTK] SetData(T[] data,Int32 startIndex,Int32 elementCount)
-[12:25:31 INFO  PyTK] SetData(T[] data)
-[12:25:31 INFO  PyTK] GetData(Int32 level,Int32 arraySlice,Nullable`1 rect,T[] data,Int32 startIndex,Int32 elementCount)
-[12:25:31 INFO  PyTK] GetData(Int32 level,Nullable`1 rect,T[] data,Int32 startIndex,Int32 elementCount)
-[12:25:31 INFO  PyTK] GetData(T[] data,Int32 startIndex,Int32 elementCount)
-[12:25:31 INFO  PyTK] GetData(T[] data)
-[12:25:31 INFO  PyTK] FromFile(GraphicsDevice graphicsDevice,String path)
-[12:25:31 INFO  PyTK] SaveAsJpeg(Stream stream,Int32 width,Int32 height)
-[12:25:31 INFO  PyTK] SaveAsPng(Stream stream,Int32 width,Int32 height)
-[12:25:31 INFO  PyTK] Reload(Stream textureStream)
-[12:25:31 INFO  PyTK] Dispose()
-[12:25:31 INFO  PyTK] add_Disposing(EventHandler`1 value)
-[12:25:31 INFO  PyTK] remove_Disposing(EventHandler`1 value)
-[12:25:31 INFO  PyTK] ToString()
-[12:25:31 INFO  PyTK] GetType()
-[12:25:31 INFO  PyTK] Equals(Object obj)
-[12:25:31 INFO  PyTK] GetHashCode()
-[12:25:31 INFO  PyTK] Patched: FromStream (1)
-[12:25:31 TRACE PyTK] Patching: PatchImage
-[12:25:31 TRACE PyTK] Patching: ExtendImage
-[12:25:31 TRACE PyTK] Patching: FileStream Constructors
-[12:25:31 INFO  PyTK] Patched: FileStream Constructors (6)
-[12:25:31 TRACE PyTK] Patching: PremultiplyTransparency
-[12:25:31 TRACE SMAPI]    Found mod-provided API (PyTK.APIs.PyTKAPI).
-[12:25:31 TRACE SMAPI]    Found mod-provided API (RangeHighlight.RangeHighlightAPI).
-[12:25:31 TRACE SMAPI]    Found mod-provided API (Omegasis.SaveAnywhere.Framework.SaveAnywhereAPI).
-[12:25:31 TRACE Save Backup] Already backed up today.
-[12:25:31 TRACE SMAPI] Smart Building loaded asset 'Mods/DecidedlyHuman/BuildingHUD'.
-[12:25:32 DEBUG SMAPI] Mods loaded and ready!
-[12:25:32 TRACE SMAPI] Checking for known software conflicts...
-[12:25:32 TRACE SMAPI]    None found!
-[12:25:32 TRACE SMAPI] Json Assets edited Data/CraftingRecipes.
-[12:25:32 TRACE SMAPI] Checking for updates...
-[12:25:32 TRACE SMAPI] Json Assets edited Data/CookingRecipes.
-[12:25:33 TRACE SMAPI] Json Assets edited Data/ObjectInformation.
-[12:25:33 TRACE SMAPI] Json Assets edited Data/ClothingInformation.
-[12:25:33 TRACE SMAPI] Json Assets edited Data/ObjectContextTags.
-[12:25:33 TRACE SMAPI] Json Assets edited Data/BigCraftablesInformation.
-[12:25:33 TRACE SMAPI] Json Assets edited TileSheets/weapons.
-[12:25:33 TRACE SMAPI] Json Assets edited Data/weapons.
-[12:25:34 ALERT SMAPI] You can update SMAPI to 3.15.1: https://smapi.io
-[12:25:34 TRACE SMAPI]    Checking for updates to 44 mods...
-[12:25:34 TRACE SMAPI] Got update-check errors for some mods:
+[21:15:43 DEBUG SMAPI] Launching mods...
+[21:15:43 TRACE SMAPI]    Found mod-provided API (Pathoschild.Stardew.Automate.Framework.AutomateAPI).
+[21:15:43 TRACE Better Crafting] Registering event ModEntry.OnMenuChanged for event MenuChanged
+[21:15:43 TRACE Better Crafting] Registering event ModEntry.OnGameLaunched for event GameLaunched
+[21:15:43 TRACE Better Crafting] Registering event ModEntry.OnSaveLoaded for event SaveLoaded
+[21:15:43 TRACE Better Crafting] Registering event ModEntry.OnReturnToTitle for event ReturnedToTitle
+[21:15:43 TRACE Better Crafting] [ThemeManager] Using Theme Manager 3.0.0
+[21:15:43 TRACE Better Crafting] [ThemeManager] Content Patcher is present. Asset redirection will be enabled.
+[21:15:43 TRACE Better Crafting] [ThemeManager] Found Embedded Theme At: E:\Play Games\Stardew Valley\Mods\BetterCrafting\assets\themes\OvergrownFlowery
+[21:15:43 TRACE SMAPI] Better Crafting created dynamic content pack 'Better Crafting' (unique ID: leclair.bettercrafting.theme-loader, path: BetterCrafting).
+[21:15:43 TRACE Better Crafting] [ThemeManager] Found Embedded Theme: Overgrown Flowery Interface (embedded.OvergrownFlowery)
+[21:15:43 TRACE Better Crafting] [ThemeManager] Found Embedded Theme At: E:\Play Games\Stardew Valley\Mods\BetterCrafting\assets\themes\StarrySky
+[21:15:43 TRACE Better Crafting] [ThemeManager] Found Embedded Theme: Starry Sky (embedded.StarrySky)
+[21:15:43 TRACE Better Crafting] [ThemeManager] Found Embedded Theme At: E:\Play Games\Stardew Valley\Mods\BetterCrafting\assets\themes\VintageInterface1
+[21:15:43 TRACE Better Crafting] [ThemeManager] Found Embedded Theme: Vintage Interface 1 (embedded.VintageInterface1)
+[21:15:43 TRACE Better Crafting] [ThemeManager] Found Embedded Theme At: E:\Play Games\Stardew Valley\Mods\BetterCrafting\assets\themes\VintageInterface2
+[21:15:43 TRACE Better Crafting] [ThemeManager] Found Embedded Theme: Vintage Interface 2 (embedded.VintageInterface2)
+[21:15:43 TRACE Better Crafting] [ThemeManager] Found 4 Embedded Themes.
+[21:15:43 TRACE Better Crafting] [ThemeManager] Found 0 External Themes
+[21:15:44 TRACE Better Crafting] [ThemeManager] Selected Theme: automatic => Default (default)
+[21:15:44 TRACE Better Crafting] Requested cache invalidation for all assets matching a predicate.
+[21:15:44 TRACE SMAPI] Invalidated 0 cache entries.
+[21:15:44 TRACE SMAPI]    Found mod-provided API (Leclair.Stardew.BetterCrafting.ModAPI).
+[21:15:44 TRACE SpaceCore] Found crafting recipe constructor in Void layoutRecipes(System.Collections.Generic.List`1[System.String])!
+[21:15:44 TRACE SpaceCore] Found first ldloc.s for ClickableTextureComponent in Void layoutRecipes(System.Collections.Generic.List`1[System.String]); storing potential override w/ recipeLocal=StardewValley.CraftingRecipe (9)
+[21:15:44 TRACE SpaceCore] Found crafting recipe constructor in System.String createDescription(Int32)!
+[21:15:45 TRACE SMAPI]    Found mod-provided API (SpaceCore.Api).
+[21:15:45 TRACE Better Crafting: SpaceCore Support] Registering event ModEntry.OnGameLaunched for event GameLaunched
+[21:15:45 TRACE SMAPI]    Found mod-provided API (BetterMixedSeeds.Api).
+[21:15:45 TRACE SMAPI]    Found mod-provided API (ContentPatcher.Framework.ContentPatcherAPI).
+[21:15:45 TRACE SMAPI] Json Assets edited Maps/springobjects.
+[21:15:45 TRACE SMAPI] Json Assets edited TileSheets/Craftables.
+[21:15:45 TRACE SMAPI] Json Assets edited TileSheets/crops.
+[21:15:45 TRACE SMAPI] Json Assets edited TileSheets/fruitTrees.
+[21:15:46 TRACE SMAPI] Json Assets edited Characters/Farmer/shirts.
+[21:15:46 TRACE SMAPI] Json Assets edited Characters/Farmer/pants.
+[21:15:46 TRACE SMAPI] Json Assets edited Characters/Farmer/hats.
+[21:15:46 TRACE SMAPI]    Found mod-provided API (JsonAssets.Api).
+[21:15:46 TRACE SMAPI]    Found mod-provided API (BugNet.Framework.BugNetApi).
+[21:15:46 TRACE SMAPI]    Found mod-provided API (Pathoschild.Stardew.ChestsAnywhere.Framework.ChestsAnywhereApi).
+[21:15:46 TRACE CJB Cheats Menu] Started with menu key P.
+[21:15:46 TRACE CJB Item Spawner] Started with menu key I.
+[21:15:47 TRACE SMAPI]    Found mod-provided API (ExperienceBars.Api).
+[21:15:47 INFO  Fishing Assistant] Initialized (press F8 to reload config)
+[21:15:47 TRACE PyTK] Patching: Assembly
+[21:15:47 TRACE PyTK] Patching: Load
+[21:15:47 TRACE PyTK] Patching: Serializers
+[21:15:47 TRACE PyTK] Patching: GameLocation Constructors
+[21:15:47 TRACE PyTK] Patching: Serializers Assembly
+[21:15:47 TRACE PyTK] Patching: FromStream
+[21:15:47 INFO  PyTK] FromStream(GraphicsDevice graphicsDevice,Stream stream)
+[21:15:47 INFO  PyTK] get_Bounds()
+[21:15:47 INFO  PyTK] get_Width()
+[21:15:47 INFO  PyTK] get_Height()
+[21:15:47 INFO  PyTK] get_Format()
+[21:15:47 INFO  PyTK] get_LevelCount()
+[21:15:47 INFO  PyTK] get_GraphicsDevice()
+[21:15:47 INFO  PyTK] get_IsDisposed()
+[21:15:47 INFO  PyTK] get_Name()
+[21:15:47 INFO  PyTK] set_Name(String value)
+[21:15:47 INFO  PyTK] get_Tag()
+[21:15:47 INFO  PyTK] set_Tag(Object value)
+[21:15:47 INFO  PyTK] SetData(Int32 level,Int32 arraySlice,Nullable`1 rect,T[] data,Int32 startIndex,Int32 elementCount)
+[21:15:47 INFO  PyTK] SetData(Int32 level,Nullable`1 rect,T[] data,Int32 startIndex,Int32 elementCount)
+[21:15:47 INFO  PyTK] SetData(T[] data,Int32 startIndex,Int32 elementCount)
+[21:15:47 INFO  PyTK] SetData(T[] data)
+[21:15:47 INFO  PyTK] GetData(Int32 level,Int32 arraySlice,Nullable`1 rect,T[] data,Int32 startIndex,Int32 elementCount)
+[21:15:47 INFO  PyTK] GetData(Int32 level,Nullable`1 rect,T[] data,Int32 startIndex,Int32 elementCount)
+[21:15:47 INFO  PyTK] GetData(T[] data,Int32 startIndex,Int32 elementCount)
+[21:15:47 INFO  PyTK] GetData(T[] data)
+[21:15:47 INFO  PyTK] FromFile(GraphicsDevice graphicsDevice,String path)
+[21:15:47 INFO  PyTK] SaveAsJpeg(Stream stream,Int32 width,Int32 height)
+[21:15:47 INFO  PyTK] SaveAsPng(Stream stream,Int32 width,Int32 height)
+[21:15:47 INFO  PyTK] Reload(Stream textureStream)
+[21:15:47 INFO  PyTK] Dispose()
+[21:15:47 INFO  PyTK] add_Disposing(EventHandler`1 value)
+[21:15:47 INFO  PyTK] remove_Disposing(EventHandler`1 value)
+[21:15:47 INFO  PyTK] ToString()
+[21:15:47 INFO  PyTK] GetType()
+[21:15:47 INFO  PyTK] Equals(Object obj)
+[21:15:47 INFO  PyTK] GetHashCode()
+[21:15:47 INFO  PyTK] Patched: FromStream (1)
+[21:15:47 TRACE PyTK] Patching: PatchImage
+[21:15:48 TRACE PyTK] Patching: ExtendImage
+[21:15:48 TRACE PyTK] Patching: FileStream Constructors
+[21:15:48 INFO  PyTK] Patched: FileStream Constructors (6)
+[21:15:48 TRACE PyTK] Patching: PremultiplyTransparency
+[21:15:48 TRACE SMAPI]    Found mod-provided API (PyTK.APIs.PyTKAPI).
+[21:15:48 TRACE SMAPI]    Found mod-provided API (RangeHighlight.RangeHighlightAPI).
+[21:15:48 TRACE SMAPI]    Found mod-provided API (Omegasis.SaveAnywhere.Framework.SaveAnywhereAPI).
+[21:15:48 TRACE SMAPI] Smart Building loaded asset 'Mods/DecidedlyHuman/BuildingHUD'.
+[21:15:49 DEBUG SMAPI] Mods loaded and ready!
+[21:15:49 TRACE SMAPI] Checking for known software conflicts...
+[21:15:49 TRACE SMAPI]    None found!
+[21:15:49 TRACE SMAPI] Checking for updates...
+[21:15:49 TRACE SMAPI] Json Assets edited Data/CraftingRecipes.
+[21:15:49 TRACE SMAPI] Json Assets edited Data/CookingRecipes.
+[21:15:49 TRACE Save Backup] Backed up to E:\Play Games\Stardew Valley\save-backups\2022-07-20 - SMAPI 3.14.5 with Stardew Valley 1.5.6.zip.
+[21:15:49 TRACE Save Backup] Deleting 2022-07-06 - SMAPI 3.14.5 with Stardew Valley 1.5.6.zip...
+[21:15:50 TRACE SMAPI] Json Assets edited Data/ObjectInformation.
+[21:15:50 TRACE SMAPI] Json Assets edited Data/ClothingInformation.
+[21:15:50 TRACE SMAPI] Json Assets edited Data/ObjectContextTags.
+[21:15:50 TRACE SMAPI] Json Assets edited Data/BigCraftablesInformation.
+[21:15:50 TRACE SMAPI] Json Assets edited TileSheets/weapons.
+[21:15:51 TRACE SMAPI] Json Assets edited Data/weapons.
+[21:15:51 ALERT SMAPI] You can update SMAPI to 3.15.1: https://smapi.io
+[21:15:51 TRACE SMAPI]    Checking for updates to 45 mods...
+[21:15:51 TRACE SMAPI] Got update-check errors for some mods:
    Chest Label System: The Chucklefish mod with ID '3550' has no valid versions.
 
-[12:25:34 ALERT SMAPI] You can update 8 mods:
-[12:25:34 ALERT SMAPI]    Automate 1.27.3: https://www.nexusmods.com/stardewvalley/mods/1063
-[12:25:34 ALERT SMAPI]    Content Patcher 1.27.2: https://www.nexusmods.com/stardewvalley/mods/1915
-[12:25:34 ALERT SMAPI]    Json Assets 1.10.7: https://www.nexusmods.com/stardewvalley/mods/1720
-[12:25:34 ALERT SMAPI]    Lookup Anything 1.37.3: https://www.nexusmods.com/stardewvalley/mods/541
-[12:25:34 ALERT SMAPI]    ObjectProgressBars 1.4.0: https://www.nexusmods.com/stardewvalley/mods/2803
-[12:25:34 ALERT SMAPI]    Smart Building 1.7.2: https://www.nexusmods.com/stardewvalley/mods/11158
-[12:25:34 ALERT SMAPI]    SpaceCore 1.9.2: https://www.nexusmods.com/stardewvalley/mods/1348
-[12:25:34 ALERT SMAPI]    Tractor Mod 4.15.5: https://www.nexusmods.com/stardewvalley/mods/1401
-[12:25:51 TRACE game] setGameMode( 'titleScreenGameMode (0)' )
-[12:25:52 TRACE SMAPI] Running on GPU: Intel(R) HD Graphics 630
-[12:25:54 TRACE SMAPI] Better Artisan Good Icons uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
+[21:15:51 ALERT SMAPI] You can update 8 mods:
+[21:15:51 ALERT SMAPI]    Automate 1.27.3: https://www.nexusmods.com/stardewvalley/mods/1063
+[21:15:51 ALERT SMAPI]    Content Patcher 1.27.2: https://www.nexusmods.com/stardewvalley/mods/1915
+[21:15:51 ALERT SMAPI]    Json Assets 1.10.7: https://www.nexusmods.com/stardewvalley/mods/1720
+[21:15:51 ALERT SMAPI]    Lookup Anything 1.37.3: https://www.nexusmods.com/stardewvalley/mods/541
+[21:15:51 ALERT SMAPI]    ObjectProgressBars 1.4.0: https://www.nexusmods.com/stardewvalley/mods/2803
+[21:15:51 ALERT SMAPI]    Smart Building 1.7.2: https://www.nexusmods.com/stardewvalley/mods/11158
+[21:15:51 ALERT SMAPI]    SpaceCore 1.9.2: https://www.nexusmods.com/stardewvalley/mods/1348
+[21:15:51 ALERT SMAPI]    Tractor Mod 4.15.5: https://www.nexusmods.com/stardewvalley/mods/1401
+[21:16:26 TRACE game] setGameMode( 'titleScreenGameMode (0)' )
+[21:16:27 TRACE SMAPI] Running on GPU: GeForce GTX 1050 Ti/PCIe/SSE2
+[21:16:28 TRACE SMAPI] Better Artisan Good Icons uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
    at BetterArtisanGoodIcons.Content.ModSource.Load[T](String path)
    at BetterArtisanGoodIcons.Content.ContentSourceManager.TryLoadTextureProvider(IContentSource contentSource, String imagePath, List`1 source, ArtisanGood good, IMonitor monitor, ArtisanGoodTextureProvider& provider)
    at BetterArtisanGoodIcons.Content.ContentSourceManager.TryLoadContentSource(TextureDataContentSource contentSource, IMonitor monitor)+MoveNext()
@@ -312,672 +316,962 @@
    at BetterArtisanGoodIcons.ArtisanGoodsManager.Init(IModHelper helper, IMonitor monitor)
    at BetterArtisanGoodIcons.BetterArtisanGoodIconsMod.Entry(IModHelper helper)
    at StardewModdingAPI.Framework.SCore.LoadMods(IModMetadata[] mods, JsonHelper jsonHelper, ContentCoordinator contentCore, ModDatabase modDatabase)
-[12:25:54 TRACE SMAPI] Billboard Anywhere uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
+[21:16:28 TRACE SMAPI] Billboard Anywhere uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
    at Omegasis.BillboardAnywhere.BillboardAnywhere.Entry(IModHelper helper)
    at StardewModdingAPI.Framework.SCore.LoadMods(IModMetadata[] mods, JsonHelper jsonHelper, ContentCoordinator contentCore, ModDatabase modDatabase)
-[12:25:54 TRACE SMAPI] Bug Net uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
+[21:16:28 TRACE SMAPI] Bug Net uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
    at BugNet.Mod.Entry(IModHelper helper)
    at StardewModdingAPI.Framework.SCore.LoadMods(IModMetadata[] mods, JsonHelper jsonHelper, ContentCoordinator contentCore, ModDatabase modDatabase)
-[12:25:54 TRACE SMAPI] Json Assets uses deprecated code (IContentHelper.AssetEditors is deprecated since SMAPI 3.14.0).
+[21:16:28 TRACE SMAPI] Json Assets uses deprecated code (IContentHelper.AssetEditors is deprecated since SMAPI 3.14.0).
    at JsonAssets.Mod.Entry(IModHelper helper)
    at StardewModdingAPI.Framework.SCore.LoadMods(IModMetadata[] mods, JsonHelper jsonHelper, ContentCoordinator contentCore, ModDatabase modDatabase)
-[12:25:54 TRACE SMAPI] Json Assets uses deprecated code (IContentHelper.AssetLoaders is deprecated since SMAPI 3.14.0).
+[21:16:28 TRACE SMAPI] Json Assets uses deprecated code (IContentHelper.AssetLoaders is deprecated since SMAPI 3.14.0).
    at JsonAssets.Mod.Entry(IModHelper helper)
    at StardewModdingAPI.Framework.SCore.LoadMods(IModMetadata[] mods, JsonHelper jsonHelper, ContentCoordinator contentCore, ModDatabase modDatabase)
-[12:25:54 TRACE SMAPI] Json Assets uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
+[21:16:28 TRACE SMAPI] Json Assets uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
    at JsonAssets.Mod.Entry(IModHelper helper)
    at StardewModdingAPI.Framework.SCore.LoadMods(IModMetadata[] mods, JsonHelper jsonHelper, ContentCoordinator contentCore, ModDatabase modDatabase)
-[12:25:54 TRACE SMAPI] LovedLabels uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
+[21:16:28 TRACE SMAPI] LovedLabels uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
    at LovedLabels.ModEntry.Entry(IModHelper helper)
    at StardewModdingAPI.Framework.SCore.LoadMods(IModMetadata[] mods, JsonHelper jsonHelper, ContentCoordinator contentCore, ModDatabase modDatabase)
-[12:25:54 TRACE SMAPI] Smart Building uses deprecated code (IAssetLoader is deprecated since SMAPI 3.14.0).
-[12:25:54 TRACE SMAPI] Smart Building uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
+[21:16:28 TRACE SMAPI] Smart Building uses deprecated code (IAssetLoader is deprecated since SMAPI 3.14.0).
+[21:16:28 TRACE SMAPI] Smart Building uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
    at SmartBuilding.ModEntry.Entry(IModHelper helper)
    at StardewModdingAPI.Framework.SCore.LoadMods(IModMetadata[] mods, JsonHelper jsonHelper, ContentCoordinator contentCore, ModDatabase modDatabase)
-[12:25:54 TRACE SMAPI] SpaceCore uses deprecated code (IContentHelper.AssetLoaders is deprecated since SMAPI 3.14.0).
+[21:16:28 TRACE SMAPI] SpaceCore uses deprecated code (IContentHelper.AssetLoaders is deprecated since SMAPI 3.14.0).
    at SpaceCore.TileSheetExtensions.Init()
    at SpaceCore.SpaceCore.Entry(IModHelper helper)
    at StardewModdingAPI.Framework.SCore.LoadMods(IModMetadata[] mods, JsonHelper jsonHelper, ContentCoordinator contentCore, ModDatabase modDatabase)
-[12:25:54 TRACE SMAPI] SpaceCore uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
+[21:16:28 TRACE SMAPI] SpaceCore uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
    at SpaceCore.TileSheetExtensions.Init()
    at SpaceCore.SpaceCore.Entry(IModHelper helper)
    at StardewModdingAPI.Framework.SCore.LoadMods(IModMetadata[] mods, JsonHelper jsonHelper, ContentCoordinator contentCore, ModDatabase modDatabase)
-[12:25:54 TRACE SMAPI] Detecting common issues...
-[12:25:54 TRACE SMAPI] Invalidating cached assets for new editors & loaders...
-[12:25:54 INFO  SMAPI] Type 'help' for help, or 'help <cmd>' for a command's usage
-[12:25:54 TRACE SMAPI]    changed: Json Assets (added 1), SpaceCore (added 1).
-[12:25:54 TRACE SMAPI] Json Assets edited Maps/springobjects.
-[12:25:54 TRACE SMAPI] Json Assets edited TileSheets/Craftables.
-[12:25:54 TRACE SMAPI] Json Assets edited TileSheets/crops.
-[12:25:54 TRACE SMAPI] Json Assets edited TileSheets/fruitTrees.
-[12:25:54 TRACE SMAPI] Json Assets edited Characters/Farmer/shirts.
-[12:25:54 TRACE SMAPI] Json Assets edited Characters/Farmer/pants.
-[12:25:54 TRACE SMAPI] Json Assets edited Characters/Farmer/hats.
-[12:25:54 TRACE SMAPI] Json Assets edited Data/CraftingRecipes.
-[12:25:54 TRACE SMAPI] Json Assets edited Data/CookingRecipes.
-[12:25:54 TRACE SMAPI] Json Assets edited Data/ObjectInformation.
-[12:25:54 TRACE SMAPI] Json Assets edited Data/ClothingInformation.
-[12:25:54 TRACE SMAPI] Json Assets edited Data/ObjectContextTags.
-[12:25:54 TRACE SMAPI] Json Assets edited Data/BigCraftablesInformation.
-[12:25:54 TRACE SMAPI] Json Assets edited TileSheets/weapons.
-[12:25:54 TRACE SMAPI] Invalidated 15 asset names (Characters/Farmer/hats, Characters/Farmer/pants, Characters/Farmer/shirts, Data/BigCraftablesInformation, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/ObjectContextTags, Data/ObjectInformation, Data/weapons, Maps/springobjects, TileSheets/Craftables, TileSheets/crops, TileSheets/fruitTrees, TileSheets/weapons).
+[21:16:28 TRACE SMAPI] Detecting common issues...
+[21:16:28 TRACE SMAPI] Invalidating cached assets for new editors & loaders...
+[21:16:28 INFO  SMAPI] Type 'help' for help, or 'help <cmd>' for a command's usage
+[21:16:29 TRACE SMAPI]    changed: Json Assets (added 1), SpaceCore (added 1).
+[21:16:29 TRACE SMAPI] Json Assets edited Maps/springobjects.
+[21:16:29 TRACE SMAPI] Json Assets edited TileSheets/Craftables.
+[21:16:29 TRACE SMAPI] Json Assets edited TileSheets/crops.
+[21:16:29 TRACE SMAPI] Json Assets edited TileSheets/fruitTrees.
+[21:16:29 TRACE SMAPI] Json Assets edited Characters/Farmer/shirts.
+[21:16:29 TRACE SMAPI] Json Assets edited Characters/Farmer/pants.
+[21:16:29 TRACE SMAPI] Json Assets edited Characters/Farmer/hats.
+[21:16:29 TRACE SMAPI] Json Assets edited Data/CraftingRecipes.
+[21:16:29 TRACE SMAPI] Json Assets edited Data/CookingRecipes.
+[21:16:29 TRACE SMAPI] Json Assets edited Data/ObjectInformation.
+[21:16:29 TRACE SMAPI] Json Assets edited Data/ClothingInformation.
+[21:16:29 TRACE SMAPI] Json Assets edited Data/ObjectContextTags.
+[21:16:29 TRACE SMAPI] Json Assets edited Data/BigCraftablesInformation.
+[21:16:29 TRACE SMAPI] Json Assets edited TileSheets/weapons.
+[21:16:29 TRACE SMAPI] Invalidated 15 asset names (Characters/Farmer/hats, Characters/Farmer/pants, Characters/Farmer/shirts, Data/BigCraftablesInformation, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/ObjectContextTags, Data/ObjectInformation, Data/weapons, Maps/springobjects, TileSheets/Craftables, TileSheets/crops, TileSheets/fruitTrees, TileSheets/weapons).
 Propagated 14 core assets (Characters/Farmer/hats, Characters/Farmer/pants, Characters/Farmer/shirts, Data/BigCraftablesInformation, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/ObjectContextTags, Data/ObjectInformation, Maps/springobjects, TileSheets/Craftables, TileSheets/crops, TileSheets/fruitTrees, TileSheets/weapons).
-[12:25:54 TRACE Better Crafting] Accessed mod-provided API for SpaceCore.
-[12:25:54 DEBUG Better Crafting] [RecipeManager] Loaded 80 cooking recipes and 130 crafting recipes.
-[12:25:54 DEBUG Better Crafting] [RecipeManager] Loaded 5 cooking categories and 6 crafting categories.
-[12:25:54 TRACE Better Crafting: SpaceCore Support] Accessed mod-provided API for Better Crafting.
-[12:25:54 TRACE SMAPI] Json Assets edited Data/Crops.
-[12:25:54 TRACE SMAPI] Json Assets edited Data/ObjectInformation.
-[12:25:54 TRACE Json Assets] Accessed mod-provided API for Content Patcher.
-[12:25:54 TRACE Json Assets] Accessed mod-provided API for Json Assets.
-[12:25:54 TRACE Bug Net] Accessed mod-provided API for Json Assets.
-[12:25:54 TRACE Bug Net] Accessed mod-provided API for SpaceCore.
-[12:25:54 INFO  Health & Stamina Regeneration] Generic Mod Config Menu not installed. No integration needed
-[12:25:54 TRACE Lookup Anything] Accessed mod-provided API for Json Assets.
-[12:25:54 INFO  Smart Building] :: The user doesn't have GMCM installed. This is not an error.
-[12:25:55 TRACE Content Patcher] Json Assets added 25 custom tokens with prefix 'spacechase0.JsonAssets/': BigCraftableId, BigCraftableSpriteTilesheet, BigCraftableSpriteX, BigCraftableSpriteY, ClothingId, CropId, CropSpriteTilesheet, CropSpriteX, CropSpriteY, FruitTreeId, FruitTreeSpriteTilesheet, FruitTreeSpriteX, FruitTreeSpriteY, HatId, HatSpriteTilesheet, HatSpriteX, HatSpriteY, ObjectId, ObjectSpriteTilesheet, ObjectSpriteX, ObjectSpriteY, WeaponId, WeaponSpriteTilesheet, WeaponSpriteX, WeaponSpriteY.
-[12:25:55 TRACE Content Patcher] Requested cache invalidation for all assets matching a predicate.
-[12:25:55 TRACE SMAPI] Json Assets edited TileSheets/weapons.
-[12:25:55 TRACE SMAPI] Content Patcher edited TileSheets/weapons (for the '[CP] Iridium Recolors' content pack).
-[12:25:56 TRACE SMAPI] Content Patcher edited TileSheets/weapons (for the 'Faithful Weapons' content pack).
-[12:25:56 TRACE SMAPI] Json Assets edited Data/ObjectContextTags.
-[12:25:56 TRACE SMAPI] Content Patcher edited Data/ObjectContextTags (for the '[CP] Forage of Ferngill' content pack).
-[12:25:56 TRACE SMAPI] Content Patcher edited LooseSprites/Cursors (for the 'Better Water' content pack).
-[12:25:56 TRACE SMAPI] Content Patcher edited LooseSprites/Cursors (for the 'Elle's New Barn Animals' content pack).
-[12:25:56 TRACE SMAPI] Content Patcher edited LooseSprites/Cursors (for the 'Elle's New Coop Animals' content pack).
-[12:25:56 TRACE SMAPI] Content Patcher edited LooseSprites/Cursors (for the '[CP] Iridium Recolors' content pack).
-[12:25:56 TRACE SMAPI] Json Assets edited TileSheets/Craftables.
-[12:25:56 TRACE SMAPI] Content Patcher edited TileSheets/Craftables (for the '[CP] Iridium Recolors' content pack).
-[12:25:56 TRACE SMAPI] Json Assets edited Maps/springobjects.
-[12:25:56 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Better Gems and Minerals' content pack).
-[12:25:56 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Elle's New Barn Animals' content pack).
-[12:25:56 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Elle's New Coop Animals' content pack).
-[12:25:56 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the '[CP] Iridium Recolors' content pack).
-[12:25:56 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Faithful Weapons' content pack).
-[12:25:56 TRACE SMAPI] Invalidated 5 asset names (Data/ObjectContextTags, LooseSprites/Cursors, Maps/springobjects, TileSheets/Craftables, TileSheets/weapons).
+[21:16:29 TRACE Better Crafting] Accessed mod-provided API for SpaceCore.
+[21:16:29 DEBUG Better Crafting] [RecipeManager] Loaded 80 cooking recipes and 130 crafting recipes.
+[21:16:29 DEBUG Better Crafting] [RecipeManager] Loaded 5 cooking categories and 6 crafting categories.
+[21:16:29 TRACE Better Crafting: SpaceCore Support] Accessed mod-provided API for Better Crafting.
+[21:16:29 TRACE SMAPI] Json Assets edited Data/Crops.
+[21:16:29 TRACE SMAPI] Json Assets edited Data/ObjectInformation.
+[21:16:29 TRACE Json Assets] Accessed mod-provided API for Content Patcher.
+[21:16:29 TRACE Json Assets] Accessed mod-provided API for Json Assets.
+[21:16:29 TRACE Bug Net] Accessed mod-provided API for Json Assets.
+[21:16:29 TRACE Bug Net] Accessed mod-provided API for SpaceCore.
+[21:16:29 INFO  Health & Stamina Regeneration] Generic Mod Config Menu not installed. No integration needed
+[21:16:29 TRACE Lookup Anything] Accessed mod-provided API for Json Assets.
+[21:16:29 INFO  Smart Building] :: The user doesn't have GMCM installed. This is not an error.
+[21:16:30 TRACE Content Patcher] Json Assets added 25 custom tokens with prefix 'spacechase0.JsonAssets/': BigCraftableId, BigCraftableSpriteTilesheet, BigCraftableSpriteX, BigCraftableSpriteY, ClothingId, CropId, CropSpriteTilesheet, CropSpriteX, CropSpriteY, FruitTreeId, FruitTreeSpriteTilesheet, FruitTreeSpriteX, FruitTreeSpriteY, HatId, HatSpriteTilesheet, HatSpriteX, HatSpriteY, ObjectId, ObjectSpriteTilesheet, ObjectSpriteX, ObjectSpriteY, WeaponId, WeaponSpriteTilesheet, WeaponSpriteX, WeaponSpriteY.
+[21:16:31 TRACE Content Patcher] Requested cache invalidation for all assets matching a predicate.
+[21:16:31 TRACE SMAPI] Json Assets edited TileSheets/weapons.
+[21:16:31 TRACE SMAPI] Content Patcher edited TileSheets/weapons (for the '[CP] Iridium Recolors' content pack).
+[21:16:32 TRACE SMAPI] Content Patcher edited TileSheets/weapons (for the 'Faithful Weapons' content pack).
+[21:16:32 TRACE SMAPI] Json Assets edited Data/ObjectContextTags.
+[21:16:32 TRACE SMAPI] Content Patcher edited Data/ObjectContextTags (for the '[CP] Forage of Ferngill' content pack).
+[21:16:32 TRACE SMAPI] Content Patcher edited LooseSprites/Cursors (for the 'Better Water' content pack).
+[21:16:32 TRACE SMAPI] Content Patcher edited LooseSprites/Cursors (for the 'Elle's New Barn Animals' content pack).
+[21:16:32 TRACE SMAPI] Content Patcher edited LooseSprites/Cursors (for the 'Elle's New Coop Animals' content pack).
+[21:16:32 TRACE SMAPI] Content Patcher edited LooseSprites/Cursors (for the '[CP] Iridium Recolors' content pack).
+[21:16:32 TRACE SMAPI] Json Assets edited TileSheets/Craftables.
+[21:16:33 TRACE SMAPI] Content Patcher edited TileSheets/Craftables (for the '[CP] Iridium Recolors' content pack).
+[21:16:33 TRACE SMAPI] Json Assets edited Maps/springobjects.
+[21:16:33 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Better Gems and Minerals' content pack).
+[21:16:33 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Elle's New Barn Animals' content pack).
+[21:16:33 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Elle's New Coop Animals' content pack).
+[21:16:33 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the '[CP] Iridium Recolors' content pack).
+[21:16:33 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Faithful Weapons' content pack).
+[21:16:33 TRACE SMAPI] Invalidated 5 asset names (Data/ObjectContextTags, LooseSprites/Cursors, Maps/springobjects, TileSheets/Craftables, TileSheets/weapons).
 Propagated 5 core assets (Data/ObjectContextTags, LooseSprites/Cursors, Maps/springobjects, TileSheets/Craftables, TileSheets/weapons).
-[12:25:56 INFO  Json Assets] Loading content packs...
-[12:25:56 TRACE Json Assets] Event: ItemsRegistered
-[12:25:56 TRACE Json Assets] Requested cache invalidation for all assets matching a predicate.
-[12:25:56 TRACE SMAPI] Json Assets edited Maps/springobjects.
-[12:25:56 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Better Gems and Minerals' content pack).
-[12:25:56 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Elle's New Barn Animals' content pack).
-[12:25:56 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Elle's New Coop Animals' content pack).
-[12:25:56 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the '[CP] Iridium Recolors' content pack).
-[12:25:56 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Faithful Weapons' content pack).
-[12:25:56 TRACE SMAPI] Json Assets edited Data/BigCraftablesInformation.
-[12:25:56 TRACE SMAPI] Json Assets edited TileSheets/Craftables.
-[12:25:56 TRACE SMAPI] Content Patcher edited TileSheets/Craftables (for the '[CP] Iridium Recolors' content pack).
-[12:25:56 TRACE SMAPI] Json Assets edited Data/ClothingInformation.
-[12:25:56 TRACE SMAPI] Json Assets edited Data/ObjectInformation.
-[12:25:56 TRACE SMAPI] Json Assets edited Data/CookingRecipes.
-[12:25:56 TRACE SMAPI] Json Assets edited Data/CraftingRecipes.
-[12:25:56 TRACE SMAPI] Json Assets edited Characters/Farmer/hats.
-[12:25:56 TRACE SMAPI] Json Assets edited Characters/Farmer/pants.
-[12:25:56 TRACE SMAPI] Json Assets edited Characters/Farmer/shirts.
-[12:25:56 TRACE SMAPI] Json Assets edited TileSheets/fruitTrees.
-[12:25:56 TRACE SMAPI] Json Assets edited TileSheets/crops.
-[12:25:56 TRACE SMAPI] Json Assets edited Data/ObjectContextTags.
-[12:25:56 TRACE SMAPI] Content Patcher edited Data/ObjectContextTags (for the '[CP] Forage of Ferngill' content pack).
-[12:25:56 TRACE SMAPI] Json Assets edited TileSheets/weapons.
-[12:25:56 TRACE SMAPI] Content Patcher edited TileSheets/weapons (for the '[CP] Iridium Recolors' content pack).
-[12:25:57 TRACE SMAPI] Content Patcher edited TileSheets/weapons (for the 'Faithful Weapons' content pack).
-[12:25:57 TRACE SMAPI] Invalidated 14 asset names (Characters/Farmer/hats, Characters/Farmer/pants, Characters/Farmer/shirts, Data/BigCraftablesInformation, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/ObjectContextTags, Data/ObjectInformation, Maps/springobjects, TileSheets/Craftables, TileSheets/crops, TileSheets/fruitTrees, TileSheets/weapons).
+[21:16:33 INFO  Json Assets] Loading content packs...
+[21:16:33 TRACE Json Assets] Event: ItemsRegistered
+[21:16:33 TRACE Json Assets] Requested cache invalidation for all assets matching a predicate.
+[21:16:33 TRACE SMAPI] Json Assets edited Maps/springobjects.
+[21:16:33 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Better Gems and Minerals' content pack).
+[21:16:33 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Elle's New Barn Animals' content pack).
+[21:16:33 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Elle's New Coop Animals' content pack).
+[21:16:33 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the '[CP] Iridium Recolors' content pack).
+[21:16:33 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Faithful Weapons' content pack).
+[21:16:33 TRACE SMAPI] Json Assets edited Data/BigCraftablesInformation.
+[21:16:33 TRACE SMAPI] Json Assets edited TileSheets/Craftables.
+[21:16:33 TRACE SMAPI] Content Patcher edited TileSheets/Craftables (for the '[CP] Iridium Recolors' content pack).
+[21:16:33 TRACE SMAPI] Json Assets edited Data/ClothingInformation.
+[21:16:33 TRACE SMAPI] Json Assets edited Data/ObjectInformation.
+[21:16:33 TRACE SMAPI] Json Assets edited Data/CookingRecipes.
+[21:16:33 TRACE SMAPI] Json Assets edited Data/CraftingRecipes.
+[21:16:33 TRACE SMAPI] Json Assets edited Characters/Farmer/hats.
+[21:16:33 TRACE SMAPI] Json Assets edited Characters/Farmer/pants.
+[21:16:33 TRACE SMAPI] Json Assets edited Characters/Farmer/shirts.
+[21:16:33 TRACE SMAPI] Json Assets edited TileSheets/fruitTrees.
+[21:16:33 TRACE SMAPI] Json Assets edited TileSheets/crops.
+[21:16:33 TRACE SMAPI] Json Assets edited Data/ObjectContextTags.
+[21:16:33 TRACE SMAPI] Content Patcher edited Data/ObjectContextTags (for the '[CP] Forage of Ferngill' content pack).
+[21:16:33 TRACE SMAPI] Json Assets edited TileSheets/weapons.
+[21:16:33 TRACE SMAPI] Content Patcher edited TileSheets/weapons (for the '[CP] Iridium Recolors' content pack).
+[21:16:34 TRACE SMAPI] Content Patcher edited TileSheets/weapons (for the 'Faithful Weapons' content pack).
+[21:16:34 TRACE SMAPI] Invalidated 14 asset names (Characters/Farmer/hats, Characters/Farmer/pants, Characters/Farmer/shirts, Data/BigCraftablesInformation, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/ObjectContextTags, Data/ObjectInformation, Maps/springobjects, TileSheets/Craftables, TileSheets/crops, TileSheets/fruitTrees, TileSheets/weapons).
 Propagated 14 core assets (Characters/Farmer/hats, Characters/Farmer/pants, Characters/Farmer/shirts, Data/BigCraftablesInformation, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/ObjectContextTags, Data/ObjectInformation, Maps/springobjects, TileSheets/Craftables, TileSheets/crops, TileSheets/fruitTrees, TileSheets/weapons).
-[12:25:57 TRACE SMAPI] Better Mixed Seeds uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
+[21:16:34 TRACE SMAPI] Better Mixed Seeds uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
    at BetterMixedSeeds.ModEntry.OnGameLaunched(Object sender, GameLaunchedEventArgs e)
    at StardewModdingAPI.Framework.Events.ManagedEvent`1.Raise(TEventArgs args)
-[12:25:57 TRACE SMAPI] Tree Transplant uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
+[21:16:34 TRACE SMAPI] Tree Transplant uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
    at TreeTransplant.TreeTransplant.loadFlipTexture()
    at StardewModdingAPI.Framework.Events.ManagedEvent`1.Raise(TEventArgs args)
-[12:25:57 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:43 Y:24 Width:1280 Height:720}
-[12:26:00 TRACE SMAPI] Json Assets edited Data/Crops.
-[12:26:01 TRACE SMAPI] Synchronizing 'Find Save Games' task...
-[12:26:01 TRACE SpaceCore] Reinitializing serializers for 1 mod types...
-[12:26:21 TRACE SMAPI] Json Assets edited Data/hats.
-[12:26:21 TRACE SMAPI]    task complete.
-[12:26:21 TRACE game] Galaxy auth failure: FAILURE_REASON_GALAXY_SERVICE_NOT_AVAILABLE
-[12:26:21 TRACE SMAPI] Json Assets edited Characters/Farmer/shoeColors.
-[12:26:21 TRACE SMAPI] Content Patcher edited Characters/Farmer/shoeColors (for the '[CP] Iridium Recolors' content pack).
-[12:26:25 TRACE game] gameMode was 'titleScreenGameMode (0)', set to 'loadingMode (6)'.
-[12:26:25 TRACE SMAPI] Game loader synchronizing...
-[12:26:25 TRACE game] getLoadEnumerator('Paradise_312220102')
-[12:26:25 TRACE game] regular stream detected...
-[12:26:25 TRACE SMAPI] Synchronizing 'Load_Deserialize' task...
-[12:26:31 TRACE SMAPI] Json Assets edited Data/weapons.
-[12:26:31 TRACE SMAPI] Content Patcher edited Maps/townInterior (for the '[CP] Iridium Recolors' content pack).
-[12:26:31 TRACE SMAPI]    task complete.
-[12:26:32 TRACE Json Assets] Resetting max shirt/pants value
-[12:26:32 TRACE Json Assets] Event: IdsAssigned
-[12:26:32 TRACE Json Assets] Requested cache invalidation for all assets matching a predicate.
-[12:26:32 TRACE Json Assets] Weapons are now (128, 4096)
-[12:26:32 TRACE SMAPI] Json Assets edited TileSheets/weapons.
-[12:26:32 TRACE SMAPI] Content Patcher edited TileSheets/weapons (for the '[CP] Iridium Recolors' content pack).
-[12:26:32 TRACE SMAPI] Content Patcher edited TileSheets/weapons (for the 'Faithful Weapons' content pack).
-[12:26:32 TRACE SMAPI] Json Assets edited Data/ObjectContextTags.
-[12:26:32 TRACE SMAPI] Content Patcher edited Data/ObjectContextTags (for the '[CP] Forage of Ferngill' content pack).
-[12:26:32 TRACE SMAPI] Json Assets edited TileSheets/crops.
-[12:26:32 TRACE SMAPI] Json Assets edited TileSheets/fruitTrees.
-[12:26:32 TRACE Json Assets] Shirts are now (256, 4096)
-[12:26:32 TRACE SMAPI] Json Assets edited Characters/Farmer/shirts.
-[12:26:32 TRACE Json Assets] Pants are now (1920, 4096)
-[12:26:32 TRACE SMAPI] Json Assets edited Characters/Farmer/pants.
-[12:26:32 TRACE Json Assets] Hats are now (240, 4096)
-[12:26:32 TRACE SMAPI] Json Assets edited Characters/Farmer/hats.
-[12:26:32 TRACE SMAPI] Json Assets edited Data/CraftingRecipes.
-[12:26:32 TRACE SMAPI] Json Assets edited Data/CookingRecipes.
-[12:26:32 TRACE SMAPI] Json Assets edited Data/ObjectInformation.
-[12:26:32 TRACE SMAPI] Json Assets edited Data/ClothingInformation.
-[12:26:32 TRACE Json Assets] Big craftables are now (128, 4096)
-[12:26:32 TRACE SMAPI] Json Assets edited TileSheets/Craftables.
-[12:26:32 TRACE SMAPI] Content Patcher edited TileSheets/Craftables (for the '[CP] Iridium Recolors' content pack).
-[12:26:32 TRACE SMAPI] Json Assets edited Data/BigCraftablesInformation.
-[12:26:32 TRACE SMAPI] Json Assets edited Maps/springobjects.
-[12:26:32 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Better Gems and Minerals' content pack).
-[12:26:32 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Elle's New Barn Animals' content pack).
-[12:26:32 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Elle's New Coop Animals' content pack).
-[12:26:33 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the '[CP] Iridium Recolors' content pack).
-[12:26:33 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Faithful Weapons' content pack).
-[12:26:33 TRACE SMAPI] Invalidated 18 asset names (Characters/Farmer/hats, Characters/Farmer/pants, Characters/Farmer/shirts, Characters/Farmer/shoeColors, Data/BigCraftablesInformation, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/Crops, Data/hats, Data/ObjectContextTags, Data/ObjectInformation, Data/weapons, Maps/springobjects, TileSheets/Craftables, TileSheets/crops, TileSheets/fruitTrees, TileSheets/weapons).
+[21:16:34 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:320 Y:180 Width:1280 Height:720}
+[21:16:40 TRACE SMAPI] Json Assets edited Data/Crops.
+[21:16:40 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[21:16:43 TRACE game] Galaxy auth failure: FAILURE_REASON_GALAXY_SERVICE_NOT_AVAILABLE
+[21:16:44 TRACE SMAPI] Synchronizing 'Find Save Games' task...
+[21:16:44 TRACE SpaceCore] Reinitializing serializers for 1 mod types...
+[21:17:26 TRACE SMAPI] Json Assets edited Data/hats.
+[21:17:27 TRACE SMAPI]    task complete.
+[21:17:27 TRACE SMAPI] Json Assets edited Characters/Farmer/shoeColors.
+[21:17:27 TRACE SMAPI] Content Patcher edited Characters/Farmer/shoeColors (for the '[CP] Iridium Recolors' content pack).
+[21:17:41 TRACE game] gameMode was 'titleScreenGameMode (0)', set to 'loadingMode (6)'.
+[21:17:42 TRACE SMAPI] Game loader synchronizing...
+[21:17:42 TRACE game] getLoadEnumerator('Paradise_312220102')
+[21:17:42 TRACE game] regular stream detected...
+[21:17:42 TRACE SMAPI] Synchronizing 'Load_Deserialize' task...
+[21:17:54 TRACE SMAPI] Json Assets edited Data/weapons.
+[21:17:54 TRACE SMAPI] Content Patcher edited Maps/townInterior (for the '[CP] Iridium Recolors' content pack).
+[21:17:55 TRACE SMAPI]    task complete.
+[21:17:55 TRACE Json Assets] Resetting max shirt/pants value
+[21:17:55 TRACE Json Assets] Event: IdsAssigned
+[21:17:55 TRACE Json Assets] Requested cache invalidation for all assets matching a predicate.
+[21:17:55 TRACE Json Assets] Weapons are now (128, 4096)
+[21:17:55 TRACE SMAPI] Json Assets edited TileSheets/weapons.
+[21:17:55 TRACE SMAPI] Content Patcher edited TileSheets/weapons (for the '[CP] Iridium Recolors' content pack).
+[21:17:55 TRACE SMAPI] Content Patcher edited TileSheets/weapons (for the 'Faithful Weapons' content pack).
+[21:17:55 TRACE SMAPI] Json Assets edited Data/ObjectContextTags.
+[21:17:55 TRACE SMAPI] Content Patcher edited Data/ObjectContextTags (for the '[CP] Forage of Ferngill' content pack).
+[21:17:55 TRACE SMAPI] Json Assets edited TileSheets/crops.
+[21:17:56 TRACE SMAPI] Json Assets edited TileSheets/fruitTrees.
+[21:17:56 TRACE Json Assets] Shirts are now (256, 4096)
+[21:17:56 TRACE SMAPI] Json Assets edited Characters/Farmer/shirts.
+[21:17:56 TRACE Json Assets] Pants are now (1920, 4096)
+[21:17:56 TRACE SMAPI] Json Assets edited Characters/Farmer/pants.
+[21:17:56 TRACE Json Assets] Hats are now (240, 4096)
+[21:17:56 TRACE SMAPI] Json Assets edited Characters/Farmer/hats.
+[21:17:56 TRACE SMAPI] Json Assets edited Data/CraftingRecipes.
+[21:17:56 TRACE SMAPI] Json Assets edited Data/CookingRecipes.
+[21:17:56 TRACE SMAPI] Json Assets edited Data/ObjectInformation.
+[21:17:56 TRACE SMAPI] Json Assets edited Data/ClothingInformation.
+[21:17:56 TRACE Json Assets] Big craftables are now (128, 4096)
+[21:17:56 TRACE SMAPI] Json Assets edited TileSheets/Craftables.
+[21:17:56 TRACE SMAPI] Content Patcher edited TileSheets/Craftables (for the '[CP] Iridium Recolors' content pack).
+[21:17:56 TRACE SMAPI] Json Assets edited Data/BigCraftablesInformation.
+[21:17:56 TRACE SMAPI] Json Assets edited Maps/springobjects.
+[21:17:56 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Better Gems and Minerals' content pack).
+[21:17:56 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Elle's New Barn Animals' content pack).
+[21:17:56 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Elle's New Coop Animals' content pack).
+[21:17:56 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the '[CP] Iridium Recolors' content pack).
+[21:17:56 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Faithful Weapons' content pack).
+[21:17:56 TRACE SMAPI] Invalidated 18 asset names (Characters/Farmer/hats, Characters/Farmer/pants, Characters/Farmer/shirts, Characters/Farmer/shoeColors, Data/BigCraftablesInformation, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/Crops, Data/hats, Data/ObjectContextTags, Data/ObjectInformation, Data/weapons, Maps/springobjects, TileSheets/Craftables, TileSheets/crops, TileSheets/fruitTrees, TileSheets/weapons).
 Propagated 14 core assets (Characters/Farmer/hats, Characters/Farmer/pants, Characters/Farmer/shirts, Data/BigCraftablesInformation, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/ObjectContextTags, Data/ObjectInformation, Maps/springobjects, TileSheets/Craftables, TileSheets/crops, TileSheets/fruitTrees, TileSheets/weapons).
-[12:26:33 TRACE SMAPI] Json Assets edited Data/Crops.
-[12:26:33 TRACE SMAPI] Json Assets edited Data/fruitTrees.
-[12:26:33 TRACE SMAPI] Json Assets edited Data/hats.
-[12:26:33 TRACE SMAPI] Json Assets edited Data/weapons.
-[12:26:33 TRACE Content Patcher] Requested cache invalidation for all assets matching a predicate.
-[12:26:33 TRACE SMAPI] Invalidated 0 cache entries.
-[12:26:33 TRACE SMAPI] Synchronizing 'Load_LoadForNewGame' task...
-[12:26:33 TRACE Json Assets] Loading stuff early (really super early)
-[12:26:33 TRACE SMAPI] Content Patcher edited LooseSprites/emojis (for the '[CP] Iridium Recolors' content pack).
-[12:26:33 TRACE SMAPI] Content Patcher edited Maps/Mines/mine (for the 'Better Water' content pack).
-[12:26:34 TRACE SMAPI] Content Patcher edited Animals/BabyWhite Cow (for the 'Elle's New Barn Animals' content pack).
-[12:26:35 TRACE SMAPI] Content Patcher edited Maps/bugLandTiles (for the 'Better Water' content pack).
-[12:26:35 TRACE SMAPI] Content Patcher edited Maps/DesertTiles (for the 'Better Water' content pack).
-[12:26:35 TRACE SMAPI] Content Patcher edited Maps/witchSwampTiles (for the 'Better Water' content pack).
-[12:26:36 TRACE SMAPI] Content Patcher edited Maps/summer_outdoorsTileSheet (for the 'Better Water' content pack).
-[12:26:36 TRACE SpaceCore] Event: OnBlankSave
-[12:26:36 TRACE SMAPI]    task complete.
-[12:26:36 TRACE SMAPI] Synchronizing 'Load_Farmer' task...
-[12:26:36 TRACE SMAPI]    task complete.
-[12:26:36 TRACE SMAPI] Synchronizing 'Load_Locations' task...
-[12:26:37 TRACE SMAPI] Content Patcher edited Buildings/Slime Hutch (for the '[CP] Iridium Recolors' content pack).
-[12:26:37 TRACE SMAPI] Content Patcher edited Animals/Void Chicken (for the 'Elle's New Coop Animals' content pack).
-[12:26:37 TRACE SMAPI] Content Patcher edited Animals/Duck (for the 'Elle's New Coop Animals' content pack).
-[12:26:37 TRACE SMAPI] Content Patcher edited Animals/Brown Chicken (for the 'Elle's New Coop Animals' content pack).
-[12:26:37 TRACE SMAPI] Content Patcher edited Animals/White Chicken (for the 'Elle's New Coop Animals' content pack).
-[12:26:37 TRACE SMAPI] Content Patcher edited Animals/Goat (for the 'Elle's New Barn Animals' content pack).
-[12:26:37 TRACE SMAPI] Content Patcher edited Animals/Brown Cow (for the 'Elle's New Barn Animals' content pack).
-[12:26:37 TRACE SMAPI] Content Patcher edited Animals/White Cow (for the 'Elle's New Barn Animals' content pack).
-[12:26:37 TRACE SMAPI] Content Patcher edited Animals/BabyPig (for the 'Elle's New Barn Animals' content pack).
-[12:26:37 TRACE SMAPI] Content Patcher edited Animals/Pig (for the 'Elle's New Barn Animals' content pack).
-[12:26:37 TRACE SMAPI] Content Patcher edited Animals/ShearedSheep (for the 'Elle's New Barn Animals' content pack).
-[12:26:37 TRACE SMAPI] Content Patcher edited Animals/Rabbit (for the 'Elle's New Coop Animals' content pack).
-[12:26:37 TRACE SMAPI] Content Patcher edited Animals/BabyRabbit (for the 'Elle's New Coop Animals' content pack).
-[12:26:37 TRACE SMAPI] Content Patcher edited Animals/Dinosaur (for the 'Elle's New Coop Animals' content pack).
-[12:26:38 TRACE SMAPI]    task complete.
-[12:26:38 TRACE Json Assets] Fixing IDs
-[12:26:38 TRACE Json Assets] Changing ID: Critter Cage: Blue Summer Butterfly from ID 3002 to 3002
-[12:26:38 TRACE Json Assets] Changing ID: Critter Cage: Green Summer Butterfly from ID 3010 to 3010
-[12:26:38 TRACE Json Assets] Changing ID: Critter Cage: Magenta Spring Butterfly from ID 3011 to 3011
-[12:26:38 TRACE Json Assets] Changing ID: Critter Cage: Orange Summer Butterfly from ID 3015 to 3015
-[12:26:38 TRACE Json Assets] Changing ID: Critter Cage: Pink Spring Butterfly from ID 3019 to 3019
-[12:26:38 TRACE Json Assets] Changing ID: Critter Cage: Purple Spring Butterfly from ID 3022 to 3022
-[12:26:38 TRACE Json Assets] Changing ID: Critter Cage: Red Summer Butterfly from ID 3024 to 3024
-[12:26:38 TRACE Json Assets] Changing ID: Critter Cage: Yellow Summer Butterfly from ID 3033 to 3033
-[12:26:38 TRACE Json Assets] Event: IdsFixed
-[12:26:38 TRACE SMAPI] Content Patcher edited Maps/summer_town (for the 'Better Water' content pack).
-[12:26:38 TRACE SMAPI] Content Patcher edited Maps/summer_beach (for the 'Better Water' content pack).
-[12:26:38 TRACE game] gameMode was 'loadingMode (6)', set to 'playingGameMode (3)'.
-[12:26:38 TRACE game] getLoadEnumerator() exited, elapsed = '00:00:13.3339792'
-[12:26:38 TRACE game] setupEventCommands() registered '130' methods
-[12:26:38 TRACE SMAPI] Game loader done.
-[12:26:38 TRACE Json Assets] Adding default/leveled recipes
-[12:26:38 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:43 Y:31 Width:1280 Height:720}
-[12:26:38 TRACE Json Assets] Boots are now (4, 4096)
-[12:26:38 TRACE SMAPI] Json Assets edited Characters/Farmer/shoeColors.
-[12:26:38 TRACE SMAPI] Content Patcher edited Characters/Farmer/shoeColors (for the '[CP] Iridium Recolors' content pack).
-[12:26:38 TRACE SMAPI] Content Patcher edited TileSheets/tools (for the '[CP] Iridium Recolors' content pack).
-[12:26:38 TRACE SMAPI] Invalidating cached assets for new editors & loaders...
-[12:26:38 TRACE SMAPI]    changed: Json Assets (added 1).
-[12:26:38 TRACE SMAPI] Json Assets edited Data/NPCGiftTastes.
-[12:26:38 TRACE SMAPI] Invalidated 1 asset names (Data/NPCGiftTastes).
+[21:17:56 TRACE SMAPI] Json Assets edited Data/Crops.
+[21:17:56 TRACE SMAPI] Json Assets edited Data/fruitTrees.
+[21:17:56 TRACE SMAPI] Json Assets edited Data/hats.
+[21:17:56 TRACE SMAPI] Json Assets edited Data/weapons.
+[21:17:56 TRACE Content Patcher] Requested cache invalidation for all assets matching a predicate.
+[21:17:56 TRACE SMAPI] Invalidated 0 cache entries.
+[21:17:56 TRACE SMAPI] Synchronizing 'Load_LoadForNewGame' task...
+[21:17:56 TRACE Json Assets] Loading stuff early (really super early)
+[21:17:56 TRACE SMAPI] Content Patcher edited LooseSprites/emojis (for the '[CP] Iridium Recolors' content pack).
+[21:17:56 TRACE SMAPI] Content Patcher edited Maps/Mines/mine (for the 'Better Water' content pack).
+[21:17:58 TRACE SMAPI] Content Patcher edited Animals/BabyWhite Cow (for the 'Elle's New Barn Animals' content pack).
+[21:17:58 TRACE SMAPI] Content Patcher edited Maps/bugLandTiles (for the 'Better Water' content pack).
+[21:17:58 TRACE SMAPI] Content Patcher edited Maps/DesertTiles (for the 'Better Water' content pack).
+[21:17:59 TRACE SMAPI] Content Patcher edited Maps/witchSwampTiles (for the 'Better Water' content pack).
+[21:18:00 TRACE SMAPI] Content Patcher edited Maps/summer_outdoorsTileSheet (for the 'Better Water' content pack).
+[21:18:01 TRACE SpaceCore] Event: OnBlankSave
+[21:18:01 TRACE SMAPI]    task complete.
+[21:18:01 TRACE SMAPI] Synchronizing 'Load_Farmer' task...
+[21:18:01 TRACE SMAPI]    task complete.
+[21:18:01 TRACE SMAPI] Synchronizing 'Load_Locations' task...
+[21:18:01 TRACE SMAPI] Content Patcher edited Buildings/Slime Hutch (for the '[CP] Iridium Recolors' content pack).
+[21:18:02 TRACE SMAPI] Content Patcher edited Animals/Duck (for the 'Elle's New Coop Animals' content pack).
+[21:18:02 TRACE SMAPI] Content Patcher edited Animals/Brown Chicken (for the 'Elle's New Coop Animals' content pack).
+[21:18:02 TRACE SMAPI] Content Patcher edited Animals/Void Chicken (for the 'Elle's New Coop Animals' content pack).
+[21:18:02 TRACE SMAPI] Content Patcher edited Animals/White Chicken (for the 'Elle's New Coop Animals' content pack).
+[21:18:02 TRACE SMAPI] Content Patcher edited Animals/Goat (for the 'Elle's New Barn Animals' content pack).
+[21:18:02 TRACE SMAPI] Content Patcher edited Animals/Brown Cow (for the 'Elle's New Barn Animals' content pack).
+[21:18:02 TRACE SMAPI] Content Patcher edited Animals/White Cow (for the 'Elle's New Barn Animals' content pack).
+[21:18:02 TRACE SMAPI] Content Patcher edited Animals/ShearedSheep (for the 'Elle's New Barn Animals' content pack).
+[21:18:02 TRACE SMAPI] Content Patcher edited Animals/BabyPig (for the 'Elle's New Barn Animals' content pack).
+[21:18:02 TRACE SMAPI] Content Patcher edited Animals/Pig (for the 'Elle's New Barn Animals' content pack).
+[21:18:02 TRACE SMAPI] Content Patcher edited Animals/Rabbit (for the 'Elle's New Coop Animals' content pack).
+[21:18:02 TRACE SMAPI] Content Patcher edited Animals/Dinosaur (for the 'Elle's New Coop Animals' content pack).
+[21:18:04 TRACE SMAPI]    task complete.
+[21:18:04 TRACE Json Assets] Fixing IDs
+[21:18:04 TRACE Json Assets] Changing ID: Critter Cage: Blue Summer Butterfly from ID 3002 to 3002
+[21:18:04 TRACE Json Assets] Changing ID: Critter Cage: Green Summer Butterfly from ID 3010 to 3010
+[21:18:04 TRACE Json Assets] Changing ID: Critter Cage: Magenta Spring Butterfly from ID 3011 to 3011
+[21:18:04 TRACE Json Assets] Changing ID: Critter Cage: Orange Summer Butterfly from ID 3015 to 3015
+[21:18:04 TRACE Json Assets] Changing ID: Critter Cage: Pink Spring Butterfly from ID 3019 to 3019
+[21:18:04 TRACE Json Assets] Changing ID: Critter Cage: Purple Spring Butterfly from ID 3022 to 3022
+[21:18:04 TRACE Json Assets] Changing ID: Critter Cage: Red Summer Butterfly from ID 3024 to 3024
+[21:18:04 TRACE Json Assets] Changing ID: Critter Cage: Yellow Summer Butterfly from ID 3033 to 3033
+[21:18:04 TRACE Json Assets] Event: IdsFixed
+[21:18:04 TRACE SMAPI] Content Patcher edited Maps/summer_town (for the 'Better Water' content pack).
+[21:18:04 TRACE SMAPI] Content Patcher edited Maps/summer_beach (for the 'Better Water' content pack).
+[21:18:04 TRACE game] gameMode was 'loadingMode (6)', set to 'playingGameMode (3)'.
+[21:18:04 TRACE game] getLoadEnumerator() exited, elapsed = '00:00:22.5011828'
+[21:18:04 TRACE game] setupEventCommands() registered '130' methods
+[21:18:04 TRACE SMAPI] Game loader done.
+[21:18:04 TRACE Json Assets] Adding default/leveled recipes
+[21:18:05 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[21:18:05 TRACE Json Assets] Boots are now (4, 4096)
+[21:18:05 TRACE SMAPI] Json Assets edited Characters/Farmer/shoeColors.
+[21:18:05 TRACE SMAPI] Content Patcher edited Characters/Farmer/shoeColors (for the '[CP] Iridium Recolors' content pack).
+[21:18:05 TRACE SMAPI] Invalidating cached assets for new editors & loaders...
+[21:18:05 TRACE SMAPI]    changed: Json Assets (added 1).
+[21:18:05 TRACE SMAPI] Json Assets edited Data/NPCGiftTastes.
+[21:18:05 TRACE SMAPI] Invalidated 1 asset names (Data/NPCGiftTastes).
 Propagated 1 core assets (Data/NPCGiftTastes).
-[12:26:38 TRACE SMAPI] Context: loaded save 'Paradise_312220102', starting summer 8 Y2, locale set to . Single-player.
-[12:26:41 DEBUG Better Crafting] [RecipeManager] Loaded 80 cooking recipes and 130 crafting recipes.
-[12:26:41 TRACE Better Mixed Seeds] Json Assets instance found, retrieving crop mods...
-[12:26:41 TRACE Better Mixed Seeds] Cleaning config...
-[12:26:41 TRACE SMAPI] Json Assets edited Data/ObjectInformation.
-[12:26:41 TRACE SMAPI] Json Assets edited Data/Crops.
-[12:26:41 TRACE Better Mixed Seeds] Accessed mod-provided API for Json Assets.
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 472, CropName: Parsnip, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 473, CropName: Green Bean, DropChance: 1, Season: spring, IsTrellis: True, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 474, CropName: Cauliflower, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 475, CropName: Potato, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 476, CropName: Garlic, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 2
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 273, CropName: Unmilled Rice, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 2
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 477, CropName: Kale, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 478, CropName: Rhubarb, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 745, CropName: Strawberry, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 433, CropName: Coffee Bean, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 499, CropName: Ancient Fruit, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 427, CropName: Tulip, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 429, CropName: Blue Jazz, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 495, CropName: Wild Horseradish, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 885, CropName: Fiber, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 831, CropName: Taro Root, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 479, CropName: Melon, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 480, CropName: Tomato, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 481, CropName: Blueberry, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 482, CropName: Hot Pepper, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 483, CropName: Wheat, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 484, CropName: Radish, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 485, CropName: Red Cabbage, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 2
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 486, CropName: Starfruit, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 833, CropName: Pineapple, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 433, CropName: Coffee Bean, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 487, CropName: Corn, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 302, CropName: Hops, DropChance: 1, Season: summer, IsTrellis: True, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 499, CropName: Ancient Fruit, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 453, CropName: Poppy, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 455, CropName: Summer Spangle, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 431, CropName: Sunflower, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 496, CropName: Spice Berry, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 885, CropName: Fiber, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 483, CropName: Wheat, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 487, CropName: Corn, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 301, CropName: Grape, DropChance: 1, Season: fall, IsTrellis: True, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 299, CropName: Amaranth, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 488, CropName: Eggplant, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 489, CropName: Artichoke, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 2
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 490, CropName: Pumpkin, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 491, CropName: Bok Choy, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 492, CropName: Yam, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 493, CropName: Cranberries, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 494, CropName: Beet, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 499, CropName: Ancient Fruit, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 431, CropName: Sunflower, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 425, CropName: Fairy Rose, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 347, CropName: Sweet Gem Berry, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 497, CropName: Common Mushroom, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 885, CropName: Fiber, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 498, CropName: Winter Root, DropChance: 1, Season: winter, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE Better Mixed Seeds] Added seed: Id: 885, CropName: Fiber, DropChance: 1, Season: winter, IsTrellis: False, YearRequirement: 0
-[12:26:41 TRACE SMAPI] NPC Map Locations loaded asset 'Mods/Bouhm.NPCMapLocations/NPCs'.
-[12:26:41 TRACE SMAPI] NPC Map Locations loaded asset 'Mods/Bouhm.NPCMapLocations/Locations'.
-[12:26:41 TRACE NPC Map Locations] Requested cache invalidation for 'LooseSprites/Map'.
-[12:26:41 TRACE SMAPI] Invalidated 0 cache entries.
-[12:26:41 TRACE NPC Map Locations] Using maps\_default\summer_map.png.
-[12:26:41 TRACE SMAPI] NPC Map Locations loaded asset 'LooseSprites/Map'.
-[12:26:41 TRACE Visible Fish] assigned new FishManager so its hopefully not null :c
-[12:26:41 TRACE SMAPI] Tractor Mod loaded asset 'Mods/Pathoschild.TractorMod/tractor'.
-[12:26:41 TRACE SMAPI] Tractor Mod loaded asset 'Mods/Pathoschild.TractorMod/garage'.
-[12:26:42 TRACE SMAPI] SkullCavernElevator uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
+[21:18:05 TRACE SMAPI] Context: loaded save 'Paradise_312220102', starting summer 9 Y2, locale set to . Single-player.
+[21:18:10 DEBUG Better Crafting] [RecipeManager] Loaded 80 cooking recipes and 130 crafting recipes.
+[21:18:10 TRACE Better Mixed Seeds] Json Assets instance found, retrieving crop mods...
+[21:18:10 TRACE Better Mixed Seeds] Cleaning config...
+[21:18:10 TRACE SMAPI] Json Assets edited Data/ObjectInformation.
+[21:18:10 TRACE SMAPI] Json Assets edited Data/Crops.
+[21:18:10 TRACE Better Mixed Seeds] Accessed mod-provided API for Json Assets.
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 472, CropName: Parsnip, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 473, CropName: Green Bean, DropChance: 1, Season: spring, IsTrellis: True, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 474, CropName: Cauliflower, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 475, CropName: Potato, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 476, CropName: Garlic, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 2
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 273, CropName: Unmilled Rice, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 2
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 477, CropName: Kale, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 478, CropName: Rhubarb, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 745, CropName: Strawberry, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 433, CropName: Coffee Bean, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 499, CropName: Ancient Fruit, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 427, CropName: Tulip, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 429, CropName: Blue Jazz, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 495, CropName: Wild Horseradish, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 885, CropName: Fiber, DropChance: 1, Season: spring, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 831, CropName: Taro Root, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 479, CropName: Melon, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 480, CropName: Tomato, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 481, CropName: Blueberry, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 482, CropName: Hot Pepper, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 483, CropName: Wheat, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 484, CropName: Radish, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 485, CropName: Red Cabbage, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 2
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 486, CropName: Starfruit, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 833, CropName: Pineapple, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 433, CropName: Coffee Bean, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 487, CropName: Corn, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 302, CropName: Hops, DropChance: 1, Season: summer, IsTrellis: True, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 499, CropName: Ancient Fruit, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 453, CropName: Poppy, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 455, CropName: Summer Spangle, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 431, CropName: Sunflower, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 496, CropName: Spice Berry, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 885, CropName: Fiber, DropChance: 1, Season: summer, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 483, CropName: Wheat, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 487, CropName: Corn, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 301, CropName: Grape, DropChance: 1, Season: fall, IsTrellis: True, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 299, CropName: Amaranth, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 488, CropName: Eggplant, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 489, CropName: Artichoke, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 2
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 490, CropName: Pumpkin, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 491, CropName: Bok Choy, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 492, CropName: Yam, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 493, CropName: Cranberries, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 494, CropName: Beet, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 499, CropName: Ancient Fruit, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 431, CropName: Sunflower, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 425, CropName: Fairy Rose, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 347, CropName: Sweet Gem Berry, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 497, CropName: Common Mushroom, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 885, CropName: Fiber, DropChance: 1, Season: fall, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 498, CropName: Winter Root, DropChance: 1, Season: winter, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE Better Mixed Seeds] Added seed: Id: 885, CropName: Fiber, DropChance: 1, Season: winter, IsTrellis: False, YearRequirement: 0
+[21:18:10 TRACE SMAPI] NPC Map Locations loaded asset 'Mods/Bouhm.NPCMapLocations/NPCs'.
+[21:18:10 TRACE SMAPI] NPC Map Locations loaded asset 'Mods/Bouhm.NPCMapLocations/Locations'.
+[21:18:10 TRACE NPC Map Locations] Requested cache invalidation for 'LooseSprites/Map'.
+[21:18:10 TRACE SMAPI] Invalidated 0 cache entries.
+[21:18:10 TRACE NPC Map Locations] Using maps\_default\summer_map.png.
+[21:18:10 TRACE SMAPI] NPC Map Locations loaded asset 'LooseSprites/Map'.
+[21:18:11 TRACE Visible Fish] assigned new FishManager so its hopefully not null :c
+[21:18:11 TRACE SMAPI] Tractor Mod loaded asset 'Mods/Pathoschild.TractorMod/tractor'.
+[21:18:11 TRACE SMAPI] Tractor Mod loaded asset 'Mods/Pathoschild.TractorMod/garage'.
+[21:18:11 TRACE SMAPI] SkullCavernElevator uses deprecated code (IModHelper.Content is deprecated since SMAPI 3.14.0).
    at SkullCavernElevator.ModEntry.SetUpSkullCave(Object sender, SaveLoadedEventArgs e)
    at StardewModdingAPI.Framework.Events.ManagedEvent`1.Raise(TEventArgs args)
-[12:27:29 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:43 Y:31 Width:1280 Height:720}
-[12:27:29 DEBUG Better Crafting] [RecipeManager] Loaded 80 cooking recipes and 130 crafting recipes.
-[12:28:55 TRACE SpaceCore] Event: TouchActionActivated
-[12:28:55 TRACE SpaceCore] Event: BeforeWarp
-[12:28:55 TRACE game] Warping to Cellar
-[12:28:56 TRACE Visible Fish] Warped to Cellar
-[12:28:56 TRACE Visible Fish] No water here. Stop spawning fish in Cellar.
-[12:29:23 TRACE SpaceCore] Event: BeforeWarp
-[12:29:23 TRACE game] Warping to Farmhouse
-[12:29:23 TRACE Visible Fish] Warped to FarmHouse
-[12:29:24 TRACE Visible Fish] No water here. Stop spawning fish in FarmHouse.
-[12:29:27 TRACE SpaceCore] Event: BeforeWarp
-[12:29:27 TRACE game] Warping to Farm
-[12:29:28 TRACE Visible Fish] Warped to Farm
-[12:29:28 TRACE Visible Fish] Spawning fish in Farm.
-[12:29:28 TRACE Visible Fish] found 93 water tiles
-[12:29:28 TRACE Visible Fish] Attempted Spawns 15 Failed Spawns: 15
-[12:29:28 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
-[12:29:30 TRACE SpaceCore] Event: ActionActivated
-[12:29:36 TRACE SpaceCore] Event: ActionActivated
-[12:31:59 TRACE SpaceCore] Event: BeforeWarp
-[12:31:59 TRACE game] Warping to FarmCave
-[12:32:00 TRACE Visible Fish] Warped to FarmCave
-[12:32:00 TRACE Visible Fish] No water here. Stop spawning fish in FarmCave.
-[12:33:22 TRACE SpaceCore] Event: BeforeWarp
-[12:33:22 TRACE game] Warping to Farm
-[12:33:23 TRACE Visible Fish] Warped to Farm
-[12:33:23 TRACE Visible Fish] Spawning fish in Farm.
-[12:33:23 TRACE Visible Fish] found 93 water tiles
-[12:33:23 TRACE Visible Fish] Attempted Spawns 15 Failed Spawns: 15
-[12:33:23 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
-[12:33:29 TRACE SpaceCore] Event: BeforeWarp
-[12:33:29 TRACE game] Warping to Barn5b5ad8e1-683b-486b-9c2c-31b176079023
-[12:33:29 TRACE Visible Fish] Warped to Deluxe Barn
-[12:33:29 TRACE Visible Fish] No water here. Stop spawning fish in Deluxe Barn.
-[12:33:38 TRACE SpaceCore] Event: BeforeWarp
-[12:33:38 TRACE game] Warping to Farm
-[12:33:38 TRACE Visible Fish] Warped to Farm
-[12:33:39 TRACE Visible Fish] Spawning fish in Farm.
-[12:33:39 TRACE Visible Fish] found 93 water tiles
-[12:33:39 TRACE Visible Fish] Attempted Spawns 15 Failed Spawns: 15
-[12:33:39 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
-[12:33:41 TRACE SpaceCore] Event: BeforeWarp
-[12:33:41 TRACE game] Warping to Barnd8108bba-6a4e-4e49-ac75-cf93d4225add
-[12:33:42 TRACE Visible Fish] Warped to Deluxe Barn
-[12:33:42 TRACE Visible Fish] No water here. Stop spawning fish in Deluxe Barn.
-[12:33:48 TRACE SpaceCore] Event: BeforeWarp
-[12:33:48 TRACE game] Warping to Farm
-[12:33:49 TRACE Visible Fish] Warped to Farm
-[12:33:49 TRACE Visible Fish] Spawning fish in Farm.
-[12:33:49 TRACE Visible Fish] found 93 water tiles
-[12:33:49 TRACE Visible Fish] Attempted Spawns 11 Failed Spawns: 11
-[12:33:49 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
-[12:33:57 TRACE SpaceCore] Event: BeforeWarp
-[12:33:57 TRACE game] Warping to Coop26172a01-4b48-4569-a07d-0c0d537cf864
-[12:33:57 TRACE Visible Fish] Warped to Deluxe Coop
-[12:33:57 TRACE Visible Fish] No water here. Stop spawning fish in Deluxe Coop.
-[12:34:09 TRACE SpaceCore] Event: BeforeWarp
-[12:34:09 TRACE game] Warping to Farm
-[12:34:09 TRACE Visible Fish] Warped to Farm
-[12:34:09 TRACE Visible Fish] Spawning fish in Farm.
-[12:34:09 TRACE Visible Fish] found 93 water tiles
-[12:34:09 TRACE Visible Fish] Attempted Spawns 15 Failed Spawns: 15
-[12:34:09 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
-[12:34:11 TRACE SpaceCore] Event: BeforeWarp
-[12:34:11 TRACE game] Warping to Coop74ea8ab6-f946-4469-98c4-50348bde638d
-[12:34:12 TRACE Visible Fish] Warped to Deluxe Coop
-[12:34:12 TRACE Visible Fish] No water here. Stop spawning fish in Deluxe Coop.
-[12:34:22 TRACE SpaceCore] Event: BeforeWarp
-[12:34:22 TRACE game] Warping to Farm
-[12:34:22 TRACE Visible Fish] Warped to Farm
-[12:34:22 TRACE Visible Fish] Spawning fish in Farm.
-[12:34:22 TRACE Visible Fish] found 93 water tiles
-[12:34:22 TRACE Visible Fish] Attempted Spawns 16 Failed Spawns: 16
-[12:34:22 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
-[12:34:49 TRACE SpaceCore] Event: ActionActivated
-[12:34:49 TRACE SpaceCore] Event: BeforeWarp
-[12:34:49 TRACE game] Warping to Greenhouse
-[12:34:50 TRACE Visible Fish] Warped to Greenhouse
-[12:34:50 TRACE Visible Fish] No water here. Stop spawning fish in Greenhouse.
-[12:34:58 TRACE SpaceCore] Event: BeforeWarp
-[12:34:58 TRACE game] Warping to Farm
-[12:34:59 TRACE Visible Fish] Warped to Farm
-[12:34:59 TRACE Visible Fish] Spawning fish in Farm.
-[12:34:59 TRACE Visible Fish] found 93 water tiles
-[12:34:59 TRACE Visible Fish] Attempted Spawns 13 Failed Spawns: 13
-[12:34:59 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
-[12:35:32 TRACE SpaceCore] Event: BeforeWarp
-[12:35:32 TRACE game] Warping to Backwoods
-[12:35:33 TRACE Visible Fish] Warped to Backwoods
-[12:35:33 TRACE Visible Fish] No water here. Stop spawning fish in Backwoods.
-[12:35:45 TRACE SpaceCore] Event: BeforeWarp
-[12:35:45 TRACE game] Warping to Mountain
-[12:35:45 TRACE Visible Fish] Warped to Mountain
-[12:35:45 TRACE Visible Fish] Spawning fish in Mountain.
-[12:35:45 TRACE Visible Fish] found 674 water tiles
-[12:35:45 TRACE Visible Fish] Attempted Spawns 125 Failed Spawns: 12
-[12:37:31 TRACE SpaceCore] Event: BeforeWarp
-[12:37:31 TRACE game] Warping to Town
-[12:37:31 TRACE Visible Fish] Warped to Town
-[12:37:31 TRACE Visible Fish] Spawning fish in Town.
-[12:37:31 TRACE Visible Fish] found 1003 water tiles
-[12:37:31 TRACE Visible Fish] Attempted Spawns 189 Failed Spawns: 37
-[12:37:42 TRACE Lookup Anything] Received a lookup request... searching the world... no target found.
-[12:37:43 TRACE Lookup Anything] Received a lookup request... searching the world...
-[12:37:43 TRACE Lookup Anything] Showing CharacterSubject::Villager::Abigail.
-[12:37:50 TRACE SpaceCore] Event: BeforeReceiveObject
-[12:37:50 TRACE SpaceCore] Event: AfterGiftGiven
-[12:38:11 TRACE Lookup Anything] Received a lookup request... searching the world...
-[12:38:11 TRACE Lookup Anything] Showing CharacterSubject::Villager::Leah.
-[12:38:19 TRACE SpaceCore] Event: BeforeReceiveObject
-[12:38:19 TRACE SpaceCore] Event: AfterGiftGiven
-[12:38:22 TRACE SpaceCore] Event: ActionActivated
-[12:38:32 TRACE SpaceCore] Event: BeforeWarp
-[12:38:32 TRACE game] Warping to Desert
-[12:38:32 TRACE Visible Fish] Warped to Desert
-[12:38:32 TRACE Visible Fish] No water here. Stop spawning fish in Desert.
-[12:38:38 TRACE SpaceCore] Event: ActionActivated
-[12:38:38 TRACE SpaceCore] Event: BeforeWarp
-[12:38:38 TRACE game] Warping to SandyHouse
-[12:38:39 TRACE Visible Fish] Warped to SandyHouse
-[12:38:39 TRACE Visible Fish] No water here. Stop spawning fish in SandyHouse.
-[12:38:49 TRACE SpaceCore] Event: ActionActivated
-[12:38:49 TRACE Json Assets] Adding objects for shop IDs 'Sandy', 'SandyHouse'.
-[12:38:49 TRACE Json Assets] Event: AddedItemsToShop
-[12:39:32 TRACE SpaceCore] Event: BeforeWarp
-[12:39:32 TRACE game] Warping to Desert
-[12:39:33 TRACE Visible Fish] Warped to Desert
-[12:39:33 TRACE Visible Fish] No water here. Stop spawning fish in Desert.
-[12:41:11 TRACE Json Assets] Adding objects for shop IDs 'DesertTrade', 'Desert'.
-[12:41:11 TRACE Json Assets] Event: AddedItemsToShop
-[12:41:42 TRACE SpaceCore] Event: BeforeWarp
-[12:41:42 TRACE game] Warping to IslandWest
-[12:41:43 TRACE Visible Fish] Warped to IslandWest
-[12:41:43 TRACE Visible Fish] Spawning fish in IslandWest.
-[12:41:43 TRACE Visible Fish] found 3846 water tiles
-[12:41:43 TRACE Visible Fish] Attempted Spawns 457 Failed Spawns: 90
-[12:44:36 TRACE SpaceCore] Event: BeforeWarp
-[12:44:36 TRACE game] Warping to IslandNorth
-[12:44:37 TRACE Visible Fish] Warped to IslandNorth
-[12:44:37 TRACE Visible Fish] Spawning fish in IslandNorth.
-[12:44:37 TRACE Visible Fish] found 112 water tiles
-[12:44:37 TRACE Visible Fish] Attempted Spawns 14 Failed Spawns: 10
-[12:44:38 TRACE SpaceCore] Event: BeforeWarp
-[12:44:38 TRACE game] Warping to IslandFieldOffice
-[12:44:38 TRACE Visible Fish] Warped to IslandFieldOffice
-[12:44:38 TRACE Visible Fish] No water here. Stop spawning fish in IslandFieldOffice.
-[12:44:54 TRACE SpaceCore] Event: BeforeWarp
-[12:44:54 TRACE game] Warping to IslandNorth
-[12:44:54 TRACE Visible Fish] Warped to IslandNorth
-[12:44:55 TRACE Visible Fish] Spawning fish in IslandNorth.
-[12:44:55 TRACE Visible Fish] found 112 water tiles
-[12:44:55 TRACE Visible Fish] Attempted Spawns 16 Failed Spawns: 9
-[12:45:26 TRACE SpaceCore] Event: BeforeWarp
-[12:45:26 TRACE game] Warping to IslandNorthCave1
-[12:45:27 TRACE Visible Fish] Warped to IslandNorthCave1
-[12:45:27 TRACE Visible Fish] No water here. Stop spawning fish in IslandNorthCave1.
-[12:45:34 TRACE SpaceCore] Event: BeforeWarp
-[12:45:34 TRACE game] Warping to IslandNorth
-[12:45:34 TRACE Visible Fish] Warped to IslandNorth
-[12:45:34 TRACE Visible Fish] Spawning fish in IslandNorth.
-[12:45:34 TRACE Visible Fish] found 112 water tiles
-[12:45:34 TRACE Visible Fish] Attempted Spawns 14 Failed Spawns: 9
-[12:46:29 TRACE SpaceCore] Event: BeforeWarp
-[12:46:29 TRACE game] Warping to IslandSouth
-[12:46:29 TRACE Visible Fish] Warped to IslandSouth
-[12:46:29 TRACE Visible Fish] Spawning fish in IslandSouth.
-[12:46:29 TRACE Visible Fish] found 1043 water tiles
-[12:46:29 TRACE Visible Fish] Attempted Spawns 188 Failed Spawns: 30
-[12:46:34 TRACE SpaceCore] Event: BeforeWarp
-[12:46:34 TRACE game] Warping to IslandWest
-[12:46:35 TRACE Visible Fish] Warped to IslandWest
-[12:46:35 TRACE Visible Fish] Spawning fish in IslandWest.
-[12:46:35 TRACE Visible Fish] found 3846 water tiles
-[12:46:35 TRACE Visible Fish] Attempted Spawns 453 Failed Spawns: 88
-[12:48:09 TRACE SpaceCore] Event: BeforeWarp
-[12:48:09 TRACE game] Warping to Woods
-[12:48:10 TRACE Visible Fish] Warped to Woods
-[12:48:10 TRACE Visible Fish] Spawning fish in Woods.
-[12:48:10 TRACE Visible Fish] found 60 water tiles
-[12:48:10 TRACE Visible Fish] Attempted Spawns 11 Failed Spawns: 2
-[12:48:46 TRACE SpaceCore] Event: BeforeWarp
-[12:48:46 TRACE game] Warping to Forest
-[12:48:46 TRACE Visible Fish] Warped to Forest
-[12:48:46 TRACE Visible Fish] Spawning fish in Forest.
-[12:48:46 TRACE Visible Fish] found 3424 water tiles
-[12:48:46 TRACE Visible Fish] Attempted Spawns 475 Failed Spawns: 121
-[12:50:17 TRACE SpaceCore] Event: BeforeWarp
-[12:50:17 TRACE game] Warping to IslandWest
-[12:50:17 TRACE Visible Fish] Warped to IslandWest
-[12:50:17 TRACE Visible Fish] Spawning fish in IslandWest.
-[12:50:17 TRACE Visible Fish] found 3846 water tiles
-[12:50:17 TRACE Visible Fish] Attempted Spawns 436 Failed Spawns: 144
-[12:50:50 TRACE SpaceCore] Event: BeforeWarp
-[12:50:50 TRACE game] Warping to Farm
-[12:50:51 TRACE Visible Fish] Warped to Farm
-[12:50:51 TRACE Visible Fish] Spawning fish in Farm.
-[12:50:51 TRACE Visible Fish] found 93 water tiles
-[12:50:51 TRACE Visible Fish] Attempted Spawns 14 Failed Spawns: 14
-[12:50:51 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
-[12:53:29 TRACE SpaceCore] Event: BeforeWarp
-[12:53:29 TRACE game] Warping to IslandWest
-[12:53:30 TRACE Visible Fish] Warped to IslandWest
-[12:53:30 TRACE Visible Fish] Spawning fish in IslandWest.
-[12:53:30 TRACE Visible Fish] found 3846 water tiles
-[12:53:30 TRACE Visible Fish] Attempted Spawns 450 Failed Spawns: 138
-[12:54:31 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:43 Y:31 Width:1280 Height:720}
-[12:56:06 TRACE SpaceCore] Event: BeforeWarp
-[12:56:06 TRACE game] Warping to IslandFarmHouse
-[12:56:07 TRACE Visible Fish] Warped to IslandFarmHouse
-[12:56:07 TRACE SMAPI] Synchronizing 'NewDay' task...
-[12:56:07 TRACE SMAPI] Content Patcher edited Animals/Sheep (for the 'Elle's New Barn Animals' content pack).
-[12:56:07 TRACE SpaceCore] Event: ChooseNightlyFarmEvent
-[12:56:07 TRACE SpaceCore] Event: ShowNightEndMenus
-[12:56:07 DEBUG SpaceCore] Doing skill menus
-[12:56:07 TRACE SMAPI]    task complete.
-[12:56:07 TRACE SMAPI] Context: before save.
-[12:56:07 TRACE SpaceCore] Saving custom data
-[12:56:13 TRACE game] SaveGame.Save() called.
-[12:56:13 TRACE SMAPI] Synchronizing 'Save' task...
-[12:56:13 TRACE game] Saving without compression...
-[12:56:14 TRACE SMAPI]    task complete.
-[12:56:14 TRACE game] SaveGame.Save() completed without exceptions.
-[12:56:18 TRACE SMAPI] Context: after save, starting summer 9 Y2.
-[12:56:18 TRACE Visible Fish] No water here. Stop spawning fish in IslandFarmHouse.
-[12:56:22 TRACE SpaceCore] Event: BeforeWarp
-[12:56:22 TRACE game] Warping to IslandWest
-[12:56:23 TRACE Visible Fish] Warped to IslandWest
-[12:56:23 TRACE Visible Fish] Spawning fish in IslandWest.
-[12:56:23 TRACE Visible Fish] found 3846 water tiles
-[12:56:23 TRACE Visible Fish] Attempted Spawns 443 Failed Spawns: 52
-[12:57:13 TRACE SpaceCore] Event: BeforeWarp
-[12:57:13 TRACE game] Warping to IslandWest
-[12:57:22 TRACE SpaceCore] Event: BeforeWarp
-[12:57:22 TRACE game] Warping to Farm
-[12:57:23 TRACE Visible Fish] Warped to Farm
-[12:57:23 TRACE Visible Fish] Spawning fish in Farm.
-[12:57:23 TRACE Visible Fish] found 93 water tiles
-[12:57:23 TRACE Visible Fish] Attempted Spawns 15 Failed Spawns: 15
-[12:57:23 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
-[12:58:58 TRACE SpaceCore] Event: BeforeWarp
-[12:58:58 TRACE game] Warping to FarmCave
-[12:58:59 TRACE Visible Fish] Warped to FarmCave
-[12:58:59 TRACE Visible Fish] No water here. Stop spawning fish in FarmCave.
-[12:59:23 TRACE SpaceCore] Event: BeforeWarp
-[12:59:23 TRACE game] Warping to Farm
-[12:59:23 TRACE Visible Fish] Warped to Farm
-[12:59:23 TRACE Visible Fish] Spawning fish in Farm.
-[12:59:23 TRACE Visible Fish] found 93 water tiles
-[12:59:23 TRACE Visible Fish] Attempted Spawns 15 Failed Spawns: 15
-[12:59:23 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
-[12:59:27 TRACE SpaceCore] Event: ActionActivated
-[12:59:27 TRACE SpaceCore] Event: BeforeWarp
-[12:59:27 TRACE game] Warping to Greenhouse
-[12:59:27 TRACE Visible Fish] Warped to Greenhouse
-[12:59:27 TRACE Visible Fish] No water here. Stop spawning fish in Greenhouse.
-[12:59:32 TRACE SpaceCore] Event: BeforeWarp
-[12:59:32 TRACE game] Warping to Farm
-[12:59:33 TRACE Visible Fish] Warped to Farm
-[12:59:33 TRACE Visible Fish] Spawning fish in Farm.
-[12:59:33 TRACE Visible Fish] found 93 water tiles
-[12:59:33 TRACE Visible Fish] Attempted Spawns 12 Failed Spawns: 12
-[12:59:33 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
-[12:59:36 TRACE SpaceCore] Event: BeforeWarp
-[12:59:36 TRACE game] Warping to Barn5b5ad8e1-683b-486b-9c2c-31b176079023
-[12:59:37 TRACE Visible Fish] Warped to Deluxe Barn
-[12:59:37 TRACE Visible Fish] No water here. Stop spawning fish in Deluxe Barn.
-[12:59:44 TRACE SpaceCore] Event: BeforeWarp
-[12:59:44 TRACE game] Warping to Farm
-[12:59:44 TRACE Visible Fish] Warped to Farm
-[12:59:44 TRACE Visible Fish] Spawning fish in Farm.
-[12:59:44 TRACE Visible Fish] found 93 water tiles
-[12:59:44 TRACE Visible Fish] Attempted Spawns 11 Failed Spawns: 11
-[12:59:44 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
-[12:59:46 TRACE SpaceCore] Event: BeforeWarp
-[12:59:46 TRACE game] Warping to Barnd8108bba-6a4e-4e49-ac75-cf93d4225add
-[12:59:47 TRACE Visible Fish] Warped to Deluxe Barn
-[12:59:47 TRACE Visible Fish] No water here. Stop spawning fish in Deluxe Barn.
-[12:59:54 TRACE SpaceCore] Event: BeforeWarp
-[12:59:54 TRACE game] Warping to Farm
-[12:59:55 TRACE Visible Fish] Warped to Farm
-[12:59:55 TRACE Visible Fish] Spawning fish in Farm.
-[12:59:55 TRACE Visible Fish] found 93 water tiles
-[12:59:55 TRACE Visible Fish] Attempted Spawns 12 Failed Spawns: 12
-[12:59:55 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
-[13:00:01 TRACE SpaceCore] Event: BeforeWarp
-[13:00:01 TRACE game] Warping to Coop26172a01-4b48-4569-a07d-0c0d537cf864
-[13:00:01 TRACE Visible Fish] Warped to Deluxe Coop
-[13:00:02 TRACE Visible Fish] No water here. Stop spawning fish in Deluxe Coop.
-[13:00:08 TRACE SpaceCore] Event: BeforeWarp
-[13:00:08 TRACE game] Warping to Farm
-[13:00:08 TRACE Visible Fish] Warped to Farm
-[13:00:08 TRACE Visible Fish] Spawning fish in Farm.
-[13:00:08 TRACE Visible Fish] found 93 water tiles
-[13:00:08 TRACE Visible Fish] Attempted Spawns 14 Failed Spawns: 14
-[13:00:08 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
-[13:00:10 TRACE SpaceCore] Event: BeforeWarp
-[13:00:10 TRACE game] Warping to Coop74ea8ab6-f946-4469-98c4-50348bde638d
-[13:00:11 TRACE Visible Fish] Warped to Deluxe Coop
-[13:00:11 TRACE Visible Fish] No water here. Stop spawning fish in Deluxe Coop.
-[13:00:20 TRACE SpaceCore] Event: BeforeWarp
-[13:00:20 TRACE game] Warping to Farm
-[13:00:20 TRACE Visible Fish] Warped to Farm
-[13:00:20 TRACE Visible Fish] Spawning fish in Farm.
-[13:00:20 TRACE Visible Fish] found 93 water tiles
-[13:00:20 TRACE Visible Fish] Attempted Spawns 13 Failed Spawns: 13
-[13:00:20 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
-[13:01:13 TRACE SpaceCore] Event: BeforeWarp
-[13:01:13 TRACE game] Warping to BusStop
-[13:01:14 TRACE Visible Fish] Warped to BusStop
-[13:01:14 TRACE Visible Fish] No water here. Stop spawning fish in BusStop.
-[13:01:28 TRACE SpaceCore] Event: BeforeWarp
-[13:01:28 TRACE game] Warping to Town
-[13:01:29 TRACE Visible Fish] Warped to Town
-[13:01:29 TRACE Visible Fish] Spawning fish in Town.
-[13:01:29 TRACE Visible Fish] found 1003 water tiles
-[13:01:29 TRACE Visible Fish] Attempted Spawns 186 Failed Spawns: 105
-[13:01:36 TRACE SpaceCore] Event: BeforeWarp
-[13:01:36 TRACE game] Warping to BusStop
-[13:01:36 TRACE Visible Fish] Warped to BusStop
-[13:01:36 TRACE Visible Fish] No water here. Stop spawning fish in BusStop.
-[13:01:48 TRACE SpaceCore] Event: BeforeWarp
-[13:01:48 TRACE game] Warping to Town
-[13:01:48 TRACE Visible Fish] Warped to Town
-[13:01:49 TRACE Visible Fish] Spawning fish in Town.
-[13:01:49 TRACE Visible Fish] found 1003 water tiles
-[13:01:49 TRACE Visible Fish] Attempted Spawns 191 Failed Spawns: 55
-[13:01:56 TRACE SpaceCore] Event: ActionActivated
-[13:01:56 TRACE SpaceCore] Event: BeforeWarp
-[13:01:56 TRACE game] Warping to SeedShop
-[13:01:56 TRACE Visible Fish] Warped to SeedShop
-[13:01:56 TRACE Visible Fish] No water here. Stop spawning fish in SeedShop.
-[13:01:59 TRACE SpaceCore] Event: ActionActivated
-[13:01:59 TRACE Json Assets] Adding objects for shop IDs 'Pierre', 'SeedShop'.
-[13:01:59 TRACE Json Assets] Event: AddedItemsToShop
-[13:01:59 DEBUG Bug Net] Adding bug net to Pierre's shop.
-[13:02:32 TRACE SpaceCore] Event: BeforeWarp
-[13:02:32 TRACE game] Warping to Town
-[13:02:33 TRACE Visible Fish] Warped to Town
-[13:02:33 TRACE Visible Fish] Spawning fish in Town.
-[13:02:33 TRACE Visible Fish] found 1003 water tiles
-[13:02:33 TRACE Visible Fish] Attempted Spawns 189 Failed Spawns: 65
-[13:02:36 TRACE SpaceCore] Event: BeforeWarp
-[13:02:36 TRACE game] Warping to Farm
-[13:02:37 TRACE Visible Fish] Warped to Farm
-[13:02:37 TRACE Visible Fish] Spawning fish in Farm.
-[13:02:37 TRACE Visible Fish] found 93 water tiles
-[13:02:37 TRACE Visible Fish] Attempted Spawns 11 Failed Spawns: 11
-[13:02:37 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
-[13:03:46 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:43 Y:31 Width:1280 Height:720}
-[13:03:46 DEBUG Better Crafting] [RecipeManager] Loaded 80 cooking recipes and 130 crafting recipes.
-[13:03:49 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:43 Y:31 Width:1280 Height:720}
-[13:05:09 TRACE SpaceCore] Event: BeforeWarp
-[13:05:09 TRACE game] Warping to Backwoods
-[13:05:10 TRACE Visible Fish] Warped to Backwoods
-[13:05:10 TRACE Visible Fish] No water here. Stop spawning fish in Backwoods.
-[13:05:19 TRACE SpaceCore] Event: BeforeWarp
-[13:05:19 TRACE game] Warping to Mountain
-[13:05:19 TRACE Visible Fish] Warped to Mountain
-[13:05:19 TRACE Visible Fish] Spawning fish in Mountain.
-[13:05:19 TRACE Visible Fish] found 674 water tiles
-[13:05:19 TRACE Visible Fish] Attempted Spawns 114 Failed Spawns: 18
-[13:05:41 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:43 Y:31 Width:1280 Height:720}
-[13:27:28 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:-303 Y:451 Width:1280 Height:720}
-[13:27:31 TRACE game] Disconnected: ClosedGame
-[13:27:31 TRACE SMAPI] Disposing...
-[13:27:31 TRACE SMAPI] Disposing the content coordinator. Content managers will no longer be usable after this point.
+[21:18:16 TRACE SMAPI] Content Patcher edited TileSheets/tools (for the '[CP] Iridium Recolors' content pack).
+[21:18:26 TRACE SpaceCore] Event: BeforeWarp
+[21:18:26 TRACE game] Warping to IslandWest
+[21:18:27 TRACE Visible Fish] Warped to IslandWest
+[21:18:27 TRACE Visible Fish] Spawning fish in IslandWest.
+[21:18:27 TRACE Visible Fish] found 3846 water tiles
+[21:18:27 TRACE Visible Fish] Attempted Spawns 445 Failed Spawns: 55
+[21:19:23 TRACE SpaceCore] Event: BeforeWarp
+[21:19:23 TRACE game] Warping to QiNutRoom
+[21:19:24 TRACE Visible Fish] Warped to QiNutRoom
+[21:19:24 TRACE Visible Fish] No water here. Stop spawning fish in QiNutRoom.
+[21:19:25 TRACE SpaceCore] Event: ActionActivated
+[21:20:43 TRACE SpaceCore] Event: BeforeWarp
+[21:20:43 TRACE game] Warping to IslandWest
+[21:20:44 TRACE Visible Fish] Warped to IslandWest
+[21:20:44 TRACE Visible Fish] Spawning fish in IslandWest.
+[21:20:44 TRACE Visible Fish] found 3846 water tiles
+[21:20:44 TRACE Visible Fish] Attempted Spawns 437 Failed Spawns: 56
+[21:21:31 TRACE SpaceCore] Event: BeforeWarp
+[21:21:31 TRACE game] Warping to IslandNorth
+[21:21:32 TRACE Visible Fish] Warped to IslandNorth
+[21:21:32 TRACE Visible Fish] Spawning fish in IslandNorth.
+[21:21:32 TRACE Visible Fish] found 112 water tiles
+[21:21:32 TRACE Visible Fish] Attempted Spawns 16 Failed Spawns: 9
+[21:22:17 TRACE SpaceCore] Event: BeforeWarp
+[21:22:17 TRACE game] Warping to IslandNorthCave1
+[21:22:18 TRACE Visible Fish] Warped to IslandNorthCave1
+[21:22:18 TRACE Visible Fish] No water here. Stop spawning fish in IslandNorthCave1.
+[21:22:19 TRACE SpaceCore] Event: BeforeWarp
+[21:22:19 TRACE game] Warping to IslandNorth
+[21:22:19 TRACE Visible Fish] Warped to IslandNorth
+[21:22:19 TRACE Visible Fish] Spawning fish in IslandNorth.
+[21:22:19 TRACE Visible Fish] found 112 water tiles
+[21:22:19 TRACE Visible Fish] Attempted Spawns 12 Failed Spawns: 4
+[21:22:24 TRACE SpaceCore] Event: BeforeWarp
+[21:22:24 TRACE game] Warping to Farm
+[21:22:25 TRACE Visible Fish] Warped to Farm
+[21:22:25 TRACE Visible Fish] Spawning fish in Farm.
+[21:22:25 TRACE Visible Fish] found 93 water tiles
+[21:22:25 TRACE Visible Fish] Attempted Spawns 13 Failed Spawns: 13
+[21:22:25 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
+[21:22:26 TRACE SpaceCore] Event: ActionActivated
+[21:22:26 TRACE SpaceCore] Event: BeforeWarp
+[21:22:26 TRACE game] Warping to FarmHouse
+[21:22:26 TRACE Visible Fish] Warped to FarmHouse
+[21:22:26 TRACE Visible Fish] No water here. Stop spawning fish in FarmHouse.
+[21:23:08 TRACE SpaceCore] Event: TouchActionActivated
+[21:23:08 TRACE SpaceCore] Event: BeforeWarp
+[21:23:08 TRACE game] Warping to Cellar
+[21:23:08 TRACE Visible Fish] Warped to Cellar
+[21:23:08 TRACE Visible Fish] No water here. Stop spawning fish in Cellar.
+[21:24:19 TRACE SpaceCore] Event: BeforeWarp
+[21:24:19 TRACE game] Warping to Farmhouse
+[21:24:20 TRACE Visible Fish] Warped to FarmHouse
+[21:24:20 TRACE Visible Fish] No water here. Stop spawning fish in FarmHouse.
+[21:24:22 TRACE SpaceCore] Event: BeforeWarp
+[21:24:22 TRACE game] Warping to Farm
+[21:24:23 TRACE Visible Fish] Warped to Farm
+[21:24:23 TRACE Visible Fish] Spawning fish in Farm.
+[21:24:23 TRACE Visible Fish] found 93 water tiles
+[21:24:23 TRACE Visible Fish] Attempted Spawns 11 Failed Spawns: 11
+[21:24:23 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
+[21:26:02 TRACE SpaceCore] Event: BeforeWarp
+[21:26:02 TRACE game] Warping to FarmCave
+[21:26:03 TRACE Visible Fish] Warped to FarmCave
+[21:26:03 TRACE Visible Fish] No water here. Stop spawning fish in FarmCave.
+[21:26:09 TRACE SpaceCore] Event: BeforeWarp
+[21:26:09 TRACE game] Warping to Farm
+[21:26:09 TRACE Visible Fish] Warped to Farm
+[21:26:10 TRACE Visible Fish] Spawning fish in Farm.
+[21:26:10 TRACE Visible Fish] found 93 water tiles
+[21:26:10 TRACE Visible Fish] Attempted Spawns 11 Failed Spawns: 11
+[21:26:10 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
+[21:26:14 TRACE SpaceCore] Event: ActionActivated
+[21:26:14 TRACE SpaceCore] Event: BeforeWarp
+[21:26:14 TRACE game] Warping to Greenhouse
+[21:26:14 TRACE Visible Fish] Warped to Greenhouse
+[21:26:14 TRACE Visible Fish] No water here. Stop spawning fish in Greenhouse.
+[21:26:18 TRACE SpaceCore] Event: BeforeWarp
+[21:26:18 TRACE game] Warping to Farm
+[21:26:19 TRACE Visible Fish] Warped to Farm
+[21:26:19 TRACE Visible Fish] Spawning fish in Farm.
+[21:26:19 TRACE Visible Fish] found 93 water tiles
+[21:26:19 TRACE Visible Fish] Attempted Spawns 11 Failed Spawns: 11
+[21:26:19 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
+[21:26:23 TRACE SpaceCore] Event: BeforeWarp
+[21:26:23 TRACE game] Warping to Barn5b5ad8e1-683b-486b-9c2c-31b176079023
+[21:26:23 TRACE Visible Fish] Warped to Deluxe Barn
+[21:26:23 TRACE Visible Fish] No water here. Stop spawning fish in Deluxe Barn.
+[21:26:30 TRACE SpaceCore] Event: BeforeWarp
+[21:26:30 TRACE game] Warping to Farm
+[21:26:31 TRACE Visible Fish] Warped to Farm
+[21:26:31 TRACE Visible Fish] Spawning fish in Farm.
+[21:26:31 TRACE Visible Fish] found 93 water tiles
+[21:26:31 TRACE Visible Fish] Attempted Spawns 16 Failed Spawns: 16
+[21:26:31 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
+[21:26:33 TRACE SpaceCore] Event: BeforeWarp
+[21:26:33 TRACE game] Warping to Barnd8108bba-6a4e-4e49-ac75-cf93d4225add
+[21:26:33 TRACE Visible Fish] Warped to Deluxe Barn
+[21:26:33 TRACE Visible Fish] No water here. Stop spawning fish in Deluxe Barn.
+[21:26:42 TRACE SpaceCore] Event: BeforeWarp
+[21:26:42 TRACE game] Warping to Farm
+[21:26:42 TRACE Visible Fish] Warped to Farm
+[21:26:42 TRACE Visible Fish] Spawning fish in Farm.
+[21:26:42 TRACE Visible Fish] found 93 water tiles
+[21:26:42 TRACE Visible Fish] Attempted Spawns 11 Failed Spawns: 11
+[21:26:42 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
+[21:26:49 TRACE SpaceCore] Event: BeforeWarp
+[21:26:49 TRACE game] Warping to Coop26172a01-4b48-4569-a07d-0c0d537cf864
+[21:26:49 TRACE Visible Fish] Warped to Deluxe Coop
+[21:26:49 TRACE Visible Fish] No water here. Stop spawning fish in Deluxe Coop.
+[21:26:59 TRACE SpaceCore] Event: BeforeWarp
+[21:26:59 TRACE game] Warping to Farm
+[21:26:59 TRACE Visible Fish] Warped to Farm
+[21:26:59 TRACE Visible Fish] Spawning fish in Farm.
+[21:26:59 TRACE Visible Fish] found 93 water tiles
+[21:26:59 TRACE Visible Fish] Attempted Spawns 15 Failed Spawns: 15
+[21:26:59 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
+[21:27:01 TRACE SpaceCore] Event: BeforeWarp
+[21:27:01 TRACE game] Warping to Coop74ea8ab6-f946-4469-98c4-50348bde638d
+[21:27:02 TRACE Visible Fish] Warped to Deluxe Coop
+[21:27:02 TRACE Visible Fish] No water here. Stop spawning fish in Deluxe Coop.
+[21:27:10 TRACE SpaceCore] Event: BeforeWarp
+[21:27:10 TRACE game] Warping to Farm
+[21:27:11 TRACE Visible Fish] Warped to Farm
+[21:27:11 TRACE Visible Fish] Spawning fish in Farm.
+[21:27:11 TRACE Visible Fish] found 93 water tiles
+[21:27:11 TRACE Visible Fish] Attempted Spawns 12 Failed Spawns: 12
+[21:27:11 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
+[21:27:44 TRACE SpaceCore] Event: BeforeWarp
+[21:27:44 TRACE game] Warping to Backwoods
+[21:27:45 TRACE Visible Fish] Warped to Backwoods
+[21:27:45 TRACE Visible Fish] No water here. Stop spawning fish in Backwoods.
+[21:27:53 TRACE SpaceCore] Event: BeforeWarp
+[21:27:53 TRACE game] Warping to Mountain
+[21:27:54 TRACE Visible Fish] Warped to Mountain
+[21:27:54 TRACE Visible Fish] Spawning fish in Mountain.
+[21:27:54 TRACE Visible Fish] found 674 water tiles
+[21:27:54 TRACE Visible Fish] Attempted Spawns 125 Failed Spawns: 15
+[21:33:59 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[21:33:59 DEBUG Better Crafting] [RecipeManager] Loaded 80 cooking recipes and 130 crafting recipes.
+[21:34:11 TRACE SpaceCore] Event: BeforeWarp
+[21:34:11 TRACE game] Warping to UndergroundMine121
+[21:34:12 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:34:12 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:34:12 DEBUG SkullCavernElevator] Value of current mineShaft level 121
+[21:34:12 DEBUG SkullCavernElevator] x -1 y -1
+[21:34:12 TRACE Visible Fish] Warped to UndergroundMine121
+[21:34:12 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine121.
+[21:34:14 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[21:34:51 TRACE SpaceCore] Event: BeforeWarp
+[21:34:51 TRACE game] Warping to UndergroundMine122
+[21:34:52 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:34:52 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:34:52 DEBUG SkullCavernElevator] Value of current mineShaft level 122
+[21:34:52 TRACE Visible Fish] Warped to UndergroundMine122
+[21:34:52 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine122.
+[21:35:11 TRACE SpaceCore] Event: BombExploded
+[21:35:13 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[21:35:18 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[21:35:29 TRACE SpaceCore] Event: BeforeWarp
+[21:35:29 TRACE game] Warping to UndergroundMine123
+[21:35:30 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:35:30 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:35:30 DEBUG SkullCavernElevator] Value of current mineShaft level 123
+[21:35:30 TRACE Visible Fish] Warped to UndergroundMine123
+[21:35:30 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine123.
+[21:37:11 TRACE SpaceCore] Event: BeforeWarp
+[21:37:11 TRACE game] Warping to UndergroundMine130
+[21:37:12 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:37:12 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:37:12 DEBUG SkullCavernElevator] Value of current mineShaft level 130
+[21:37:12 DEBUG SkullCavernElevator] x -1 y -1
+[21:37:12 TRACE Visible Fish] Warped to UndergroundMine130
+[21:37:12 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine130.
+[21:37:43 TRACE SpaceCore] Event: BeforeWarp
+[21:37:43 TRACE game] Warping to UndergroundMine131
+[21:37:43 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:37:43 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:37:43 DEBUG SkullCavernElevator] Value of current mineShaft level 131
+[21:37:43 TRACE Visible Fish] Warped to UndergroundMine131
+[21:37:43 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine131.
+[21:37:51 TRACE SpaceCore] Event: BeforeWarp
+[21:37:51 TRACE game] Warping to UndergroundMine136
+[21:37:52 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:37:52 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:37:52 DEBUG SkullCavernElevator] Value of current mineShaft level 136
+[21:37:52 TRACE Visible Fish] Warped to UndergroundMine136
+[21:37:52 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine136.
+[21:38:15 TRACE SpaceCore] Event: BeforeWarp
+[21:38:15 TRACE game] Warping to UndergroundMine137
+[21:38:16 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:38:16 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:38:16 DEBUG SkullCavernElevator] Value of current mineShaft level 137
+[21:38:16 TRACE Visible Fish] Warped to UndergroundMine137
+[21:38:16 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine137.
+[21:38:27 TRACE SpaceCore] Event: BombExploded
+[21:38:41 TRACE SpaceCore] Event: BombExploded
+[21:38:50 TRACE SpaceCore] Event: BeforeWarp
+[21:38:50 TRACE game] Warping to UndergroundMine138
+[21:38:51 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:38:51 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:38:51 DEBUG SkullCavernElevator] Value of current mineShaft level 138
+[21:38:51 TRACE Visible Fish] Warped to UndergroundMine138
+[21:38:51 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine138.
+[21:39:55 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[21:40:04 TRACE SpaceCore] Event: BeforeWarp
+[21:40:04 TRACE game] Warping to UndergroundMine139
+[21:40:04 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:40:04 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:40:04 DEBUG SkullCavernElevator] Value of current mineShaft level 139
+[21:40:04 TRACE Visible Fish] Warped to UndergroundMine139
+[21:40:04 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine139.
+[21:40:17 TRACE SpaceCore] Event: BombExploded
+[21:40:31 TRACE SpaceCore] Event: BombExploded
+[21:40:42 TRACE SpaceCore] Event: BombExploded
+[21:40:59 TRACE SpaceCore] Event: BeforeWarp
+[21:40:59 TRACE game] Warping to UndergroundMine140
+[21:41:00 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:41:00 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:41:00 DEBUG SkullCavernElevator] Value of current mineShaft level 140
+[21:41:00 DEBUG SkullCavernElevator] x -1 y -1
+[21:41:00 TRACE Visible Fish] Warped to UndergroundMine140
+[21:41:00 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine140.
+[21:41:26 TRACE SpaceCore] Event: BeforeWarp
+[21:41:26 TRACE game] Warping to UndergroundMine141
+[21:41:27 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:41:27 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:41:27 DEBUG SkullCavernElevator] Value of current mineShaft level 141
+[21:41:27 TRACE Visible Fish] Warped to UndergroundMine141
+[21:41:27 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine141.
+[21:41:52 TRACE SpaceCore] Event: BeforeWarp
+[21:41:52 TRACE game] Warping to UndergroundMine142
+[21:41:52 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:41:52 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:41:52 DEBUG SkullCavernElevator] Value of current mineShaft level 142
+[21:41:52 TRACE Visible Fish] Warped to UndergroundMine142
+[21:41:52 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine142.
+[21:42:15 TRACE SpaceCore] Event: BeforeWarp
+[21:42:15 TRACE game] Warping to UndergroundMine143
+[21:42:16 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:42:16 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:42:16 DEBUG SkullCavernElevator] Value of current mineShaft level 143
+[21:42:16 TRACE Visible Fish] Warped to UndergroundMine143
+[21:42:16 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine143.
+[21:43:26 TRACE SpaceCore] Event: BeforeWarp
+[21:43:26 TRACE game] Warping to UndergroundMine144
+[21:43:27 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:43:27 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:43:27 DEBUG SkullCavernElevator] Value of current mineShaft level 144
+[21:43:27 TRACE Visible Fish] Warped to UndergroundMine144
+[21:43:27 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine144.
+[21:43:37 TRACE SpaceCore] Event: BombExploded
+[21:44:53 TRACE SpaceCore] Event: BombExploded
+[21:44:55 TRACE SpaceCore] Event: BeforeWarp
+[21:44:55 TRACE game] Warping to UndergroundMine145
+[21:44:56 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:44:56 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:44:56 DEBUG SkullCavernElevator] Value of current mineShaft level 145
+[21:44:56 DEBUG SkullCavernElevator] x -1 y -1
+[21:44:56 TRACE Visible Fish] Warped to UndergroundMine145
+[21:44:56 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine145.
+[21:45:13 TRACE SpaceCore] Event: BombExploded
+[21:45:21 TRACE SpaceCore] Event: BombExploded
+[21:45:27 TRACE SpaceCore] Event: BombExploded
+[21:45:34 TRACE SMAPI] Content Patcher edited Characters/Monsters/Iridium Crab (for the '[CP] Iridium Recolors' content pack).
+[21:45:34 TRACE SpaceCore] Event: BeforeWarp
+[21:45:34 TRACE game] Warping to UndergroundMine146
+[21:45:35 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:45:35 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:45:35 DEBUG SkullCavernElevator] Value of current mineShaft level 146
+[21:45:35 TRACE Visible Fish] Warped to UndergroundMine146
+[21:45:35 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine146.
+[21:46:15 TRACE SpaceCore] Event: BeforeWarp
+[21:46:15 TRACE game] Warping to UndergroundMine147
+[21:46:16 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:46:16 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:46:16 DEBUG SkullCavernElevator] Value of current mineShaft level 147
+[21:46:16 TRACE Visible Fish] Warped to UndergroundMine147
+[21:46:16 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine147.
+[21:47:06 TRACE SpaceCore] Event: BeforeWarp
+[21:47:06 TRACE game] Warping to UndergroundMine148
+[21:47:07 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:47:07 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:47:07 DEBUG SkullCavernElevator] Value of current mineShaft level 148
+[21:47:07 TRACE Visible Fish] Warped to UndergroundMine148
+[21:47:07 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine148.
+[21:47:17 TRACE SpaceCore] Event: BombExploded
+[21:47:28 TRACE SpaceCore] Event: BombExploded
+[21:47:36 TRACE SpaceCore] Event: BeforeWarp
+[21:47:36 TRACE game] Warping to UndergroundMine149
+[21:47:37 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:47:37 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:47:37 DEBUG SkullCavernElevator] Value of current mineShaft level 149
+[21:47:37 TRACE Visible Fish] Warped to UndergroundMine149
+[21:47:37 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine149.
+[21:47:47 TRACE SpaceCore] Event: BombExploded
+[21:48:12 TRACE SpaceCore] Event: BeforeWarp
+[21:48:12 TRACE game] Warping to UndergroundMine150
+[21:48:13 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:48:13 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:48:13 DEBUG SkullCavernElevator] Value of current mineShaft level 150
+[21:48:13 DEBUG SkullCavernElevator] x -1 y -1
+[21:48:13 TRACE Visible Fish] Warped to UndergroundMine150
+[21:48:13 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine150.
+[21:48:40 TRACE SpaceCore] Event: BombExploded
+[21:48:57 TRACE SpaceCore] Event: BombExploded
+[21:49:04 TRACE SpaceCore] Event: BeforeWarp
+[21:49:04 TRACE game] Warping to UndergroundMine151
+[21:49:05 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:49:05 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:49:05 DEBUG SkullCavernElevator] Value of current mineShaft level 151
+[21:49:05 TRACE Visible Fish] Warped to UndergroundMine151
+[21:49:05 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine151.
+[21:49:19 TRACE SpaceCore] Event: BombExploded
+[21:49:30 TRACE SpaceCore] Event: BeforeWarp
+[21:49:30 TRACE game] Warping to UndergroundMine152
+[21:49:30 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:49:30 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:49:30 DEBUG SkullCavernElevator] Value of current mineShaft level 152
+[21:49:30 TRACE Visible Fish] Warped to UndergroundMine152
+[21:49:31 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine152.
+[21:49:38 TRACE SpaceCore] Event: BombExploded
+[21:49:51 TRACE SpaceCore] Event: BombExploded
+[21:50:00 TRACE SpaceCore] Event: BombExploded
+[21:50:08 TRACE SpaceCore] Event: BombExploded
+[21:50:12 TRACE SpaceCore] Event: BeforeWarp
+[21:50:12 TRACE game] Warping to UndergroundMine153
+[21:50:13 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:50:13 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:50:13 DEBUG SkullCavernElevator] Value of current mineShaft level 153
+[21:50:13 TRACE Visible Fish] Warped to UndergroundMine153
+[21:50:13 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine153.
+[21:50:29 TRACE SpaceCore] Event: BombExploded
+[21:50:37 TRACE SpaceCore] Event: BombExploded
+[21:50:49 TRACE SpaceCore] Event: BombExploded
+[21:51:04 TRACE SpaceCore] Event: BeforeWarp
+[21:51:04 TRACE game] Warping to UndergroundMine161
+[21:51:06 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:51:06 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:51:06 DEBUG SkullCavernElevator] Value of current mineShaft level 161
+[21:51:06 TRACE Visible Fish] Warped to UndergroundMine161
+[21:51:06 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine161.
+[21:51:29 TRACE SpaceCore] Event: BombExploded
+[21:51:35 TRACE SpaceCore] Event: BeforeWarp
+[21:51:35 TRACE game] Warping to UndergroundMine164
+[21:51:36 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:51:36 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:51:36 DEBUG SkullCavernElevator] Value of current mineShaft level 164
+[21:51:36 TRACE Visible Fish] Warped to UndergroundMine164
+[21:51:37 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine164.
+[21:52:27 TRACE SMAPI] Content Patcher edited Characters/Monsters/Iridium Bat (for the '[CP] Iridium Recolors' content pack).
+[21:52:27 TRACE SpaceCore] Event: BeforeWarp
+[21:52:27 TRACE game] Warping to UndergroundMine165
+[21:52:28 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:52:28 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:52:28 DEBUG SkullCavernElevator] Value of current mineShaft level 165
+[21:52:28 DEBUG SkullCavernElevator] x -1 y -1
+[21:52:28 TRACE Visible Fish] Warped to UndergroundMine165
+[21:52:28 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine165.
+[21:52:50 TRACE SpaceCore] Event: BeforeWarp
+[21:52:50 TRACE game] Warping to UndergroundMine166
+[21:52:50 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:52:50 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:52:50 DEBUG SkullCavernElevator] Value of current mineShaft level 166
+[21:52:50 TRACE Visible Fish] Warped to UndergroundMine166
+[21:52:50 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine166.
+[21:53:05 TRACE SpaceCore] Event: BombExploded
+[21:53:51 TRACE SpaceCore] Event: BombExploded
+[21:53:56 TRACE SpaceCore] Event: BeforeWarp
+[21:53:56 TRACE game] Warping to UndergroundMine167
+[21:53:57 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:53:57 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:53:57 DEBUG SkullCavernElevator] Value of current mineShaft level 167
+[21:53:57 TRACE Visible Fish] Warped to UndergroundMine167
+[21:53:57 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine167.
+[21:54:50 TRACE SpaceCore] Event: BeforeWarp
+[21:54:50 TRACE game] Warping to UndergroundMine171
+[21:54:51 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:54:51 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:54:51 DEBUG SkullCavernElevator] Value of current mineShaft level 171
+[21:54:51 TRACE Visible Fish] Warped to UndergroundMine171
+[21:54:51 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine171.
+[21:55:38 TRACE SpaceCore] Event: BeforeWarp
+[21:55:38 TRACE game] Warping to UndergroundMine172
+[21:55:39 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:55:39 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:55:39 DEBUG SkullCavernElevator] Value of current mineShaft level 172
+[21:55:39 TRACE Visible Fish] Warped to UndergroundMine172
+[21:55:39 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine172.
+[21:56:18 TRACE SpaceCore] Event: BeforeWarp
+[21:56:18 TRACE game] Warping to UndergroundMine173
+[21:56:19 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:56:19 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:56:19 DEBUG SkullCavernElevator] Value of current mineShaft level 173
+[21:56:19 TRACE Visible Fish] Warped to UndergroundMine173
+[21:56:19 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine173.
+[21:57:00 TRACE SpaceCore] Event: BombExploded
+[21:57:02 TRACE SpaceCore] Event: BeforeWarp
+[21:57:02 TRACE game] Warping to UndergroundMine174
+[21:57:03 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:57:03 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:57:03 DEBUG SkullCavernElevator] Value of current mineShaft level 174
+[21:57:03 TRACE Visible Fish] Warped to UndergroundMine174
+[21:57:03 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine174.
+[21:57:16 TRACE SpaceCore] Event: BombExploded
+[21:57:42 TRACE SpaceCore] Event: BombExploded
+[21:57:51 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[21:58:00 TRACE SpaceCore] Event: BeforeWarp
+[21:58:00 TRACE game] Warping to UndergroundMine175
+[21:58:01 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:58:01 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:58:01 DEBUG SkullCavernElevator] Value of current mineShaft level 175
+[21:58:01 DEBUG SkullCavernElevator] x -1 y -1
+[21:58:01 TRACE Visible Fish] Warped to UndergroundMine175
+[21:58:01 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine175.
+[21:59:12 TRACE SpaceCore] Event: BeforeWarp
+[21:59:12 TRACE game] Warping to UndergroundMine176
+[21:59:13 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:59:13 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:59:13 DEBUG SkullCavernElevator] Value of current mineShaft level 176
+[21:59:13 TRACE Visible Fish] Warped to UndergroundMine176
+[21:59:13 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine176.
+[21:59:21 TRACE SpaceCore] Event: BeforeWarp
+[21:59:21 TRACE game] Warping to UndergroundMine177
+[21:59:22 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:59:22 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:59:22 DEBUG SkullCavernElevator] Value of current mineShaft level 177
+[21:59:22 TRACE Visible Fish] Warped to UndergroundMine177
+[21:59:22 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine177.
+[21:59:35 TRACE SpaceCore] Event: BombExploded
+[21:59:48 TRACE SpaceCore] Event: BeforeWarp
+[21:59:48 TRACE game] Warping to UndergroundMine178
+[21:59:48 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[21:59:48 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[21:59:48 DEBUG SkullCavernElevator] Value of current mineShaft level 178
+[21:59:48 TRACE Visible Fish] Warped to UndergroundMine178
+[21:59:48 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine178.
+[22:00:07 TRACE SpaceCore] Event: BombExploded
+[22:00:28 TRACE SpaceCore] Event: BombExploded
+[22:00:32 TRACE SpaceCore] Event: BeforeWarp
+[22:00:32 TRACE game] Warping to UndergroundMine186
+[22:00:34 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[22:00:34 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[22:00:34 DEBUG SkullCavernElevator] Value of current mineShaft level 186
+[22:00:34 TRACE Visible Fish] Warped to UndergroundMine186
+[22:00:34 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine186.
+[22:00:51 TRACE SpaceCore] Event: BombExploded
+[22:01:09 TRACE SpaceCore] Event: BeforeWarp
+[22:01:09 TRACE game] Warping to UndergroundMine187
+[22:01:09 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[22:01:09 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[22:01:09 DEBUG SkullCavernElevator] Value of current mineShaft level 187
+[22:01:09 TRACE Visible Fish] Warped to UndergroundMine187
+[22:01:10 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine187.
+[22:01:25 TRACE SpaceCore] Event: BombExploded
+[22:01:38 TRACE SpaceCore] Event: BeforeWarp
+[22:01:38 TRACE game] Warping to UndergroundMine188
+[22:01:39 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[22:01:39 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[22:01:39 DEBUG SkullCavernElevator] Value of current mineShaft level 188
+[22:01:39 TRACE Visible Fish] Warped to UndergroundMine188
+[22:01:39 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine188.
+[22:03:12 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[22:03:20 TRACE SpaceCore] Event: BeforeWarp
+[22:03:20 TRACE game] Warping to UndergroundMine189
+[22:03:20 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[22:03:20 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[22:03:20 DEBUG SkullCavernElevator] Value of current mineShaft level 189
+[22:03:20 TRACE Visible Fish] Warped to UndergroundMine189
+[22:03:20 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine189.
+[22:03:49 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[22:04:02 TRACE SpaceCore] Event: BombExploded
+[22:04:42 TRACE SpaceCore] Event: BeforeWarp
+[22:04:42 TRACE game] Warping to UndergroundMine190
+[22:04:43 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[22:04:43 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[22:04:43 DEBUG SkullCavernElevator] Value of current mineShaft level 190
+[22:04:43 DEBUG SkullCavernElevator] x -1 y -1
+[22:04:43 TRACE Visible Fish] Warped to UndergroundMine190
+[22:04:43 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine190.
+[22:04:54 TRACE SpaceCore] Event: BombExploded
+[22:05:14 TRACE SpaceCore] Event: BeforeWarp
+[22:05:14 TRACE game] Warping to UndergroundMine191
+[22:05:15 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[22:05:15 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[22:05:15 DEBUG SkullCavernElevator] Value of current mineShaft level 191
+[22:05:15 TRACE Visible Fish] Warped to UndergroundMine191
+[22:05:15 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine191.
+[22:05:28 TRACE SpaceCore] Event: BombExploded
+[22:05:43 TRACE SpaceCore] Event: BombExploded
+[22:05:59 TRACE SpaceCore] Event: BombExploded
+[22:06:07 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[22:06:20 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[22:08:09 TRACE SpaceCore] Event: BeforeWarp
+[22:08:09 TRACE game] Warping to UndergroundMine192
+[22:08:09 DEBUG SkullCavernElevator] Current lowest minelevel of player 850
+[22:08:09 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 850
+[22:08:09 DEBUG SkullCavernElevator] Value of current mineShaft level 192
+[22:08:09 TRACE Visible Fish] Warped to UndergroundMine192
+[22:08:09 TRACE Visible Fish] No water here. Stop spawning fish in UndergroundMine192.
+[22:08:26 TRACE SpaceCore] Event: BeforeWarp
+[22:08:26 TRACE game] Warping to Farm
+[22:08:27 TRACE Visible Fish] Warped to Farm
+[22:08:27 TRACE Visible Fish] Spawning fish in Farm.
+[22:08:27 TRACE Visible Fish] found 93 water tiles
+[22:08:27 TRACE Visible Fish] Attempted Spawns 10 Failed Spawns: 10
+[22:08:27 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
+[22:08:45 TRACE SpaceCore] Event: BeforeWarp
+[22:08:45 TRACE game] Warping to Town
+[22:08:46 TRACE Visible Fish] Warped to Town
+[22:08:46 TRACE Visible Fish] Spawning fish in Town.
+[22:08:46 TRACE Visible Fish] found 1003 water tiles
+[22:08:46 TRACE Visible Fish] Attempted Spawns 189 Failed Spawns: 58
+[22:08:47 TRACE SpaceCore] Event: ActionActivated
+[22:08:47 TRACE SpaceCore] Event: BeforeWarp
+[22:08:47 TRACE game] Warping to SeedShop
+[22:08:47 TRACE Visible Fish] Warped to SeedShop
+[22:08:47 TRACE Visible Fish] No water here. Stop spawning fish in SeedShop.
+[22:08:54 TRACE SpaceCore] Event: BeforeWarp
+[22:08:54 TRACE game] Warping to Town
+[22:08:54 TRACE Visible Fish] Warped to Town
+[22:08:54 TRACE Visible Fish] Spawning fish in Town.
+[22:08:54 TRACE Visible Fish] found 1003 water tiles
+[22:08:54 TRACE Visible Fish] Attempted Spawns 194 Failed Spawns: 77
+[22:09:03 TRACE SpaceCore] Event: BeforeWarp
+[22:09:03 TRACE game] Warping to BusStop
+[22:09:04 TRACE Visible Fish] Warped to BusStop
+[22:09:04 TRACE Visible Fish] No water here. Stop spawning fish in BusStop.
+[22:09:14 TRACE SpaceCore] Event: BeforeWarp
+[22:09:14 TRACE game] Warping to Farm
+[22:09:14 TRACE Visible Fish] Warped to Farm
+[22:09:14 TRACE Visible Fish] Spawning fish in Farm.
+[22:09:14 TRACE Visible Fish] found 93 water tiles
+[22:09:14 TRACE Visible Fish] Attempted Spawns 15 Failed Spawns: 15
+[22:09:14 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
+[22:09:22 TRACE SMAPI] Json Assets edited Data/Boots.
+[22:10:19 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[22:10:49 TRACE SpaceCore] Event: BeforeWarp
+[22:10:49 TRACE game] Warping to Mountain
+[22:10:50 TRACE Visible Fish] Warped to Mountain
+[22:10:50 TRACE Visible Fish] Spawning fish in Mountain.
+[22:10:50 TRACE Visible Fish] found 674 water tiles
+[22:10:50 TRACE Visible Fish] Attempted Spawns 126 Failed Spawns: 24
+[22:10:51 TRACE SpaceCore] Event: ActionActivated
+[22:10:51 TRACE SpaceCore] Event: BeforeWarp
+[22:10:51 TRACE game] Warping to AdventureGuild
+[22:10:51 TRACE Visible Fish] Warped to AdventureGuild
+[22:10:51 TRACE Visible Fish] No water here. Stop spawning fish in AdventureGuild.
+[22:10:53 TRACE SpaceCore] Event: ActionActivated
+[22:10:53 TRACE Json Assets] Adding objects for shop IDs 'Marlon', 'AdventureGuild'.
+[22:10:53 TRACE Json Assets] Event: AddedItemsToShop
+[22:11:09 TRACE SpaceCore] Event: BeforeWarp
+[22:11:09 TRACE game] Warping to Mountain
+[22:11:10 TRACE Visible Fish] Warped to Mountain
+[22:11:10 TRACE Visible Fish] Spawning fish in Mountain.
+[22:11:10 TRACE Visible Fish] found 674 water tiles
+[22:11:10 TRACE Visible Fish] Attempted Spawns 124 Failed Spawns: 19
+[22:11:19 TRACE SpaceCore] Event: BeforeWarp
+[22:11:19 TRACE game] Warping to Beach
+[22:11:19 TRACE Visible Fish] Warped to Beach
+[22:11:19 TRACE Visible Fish] Spawning fish in Beach.
+[22:11:19 TRACE Visible Fish] found 2693 water tiles
+[22:11:20 TRACE Visible Fish] Attempted Spawns 459 Failed Spawns: 91
+[22:17:53 TRACE SpaceCore] Event: BeforeWarp
+[22:17:53 TRACE game] Warping to Farm
+[22:17:54 TRACE Visible Fish] Warped to Farm
+[22:17:54 TRACE Visible Fish] Spawning fish in Farm.
+[22:17:54 TRACE Visible Fish] found 93 water tiles
+[22:17:54 TRACE Visible Fish] Attempted Spawns 14 Failed Spawns: 14
+[22:17:54 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
+[22:17:55 TRACE SpaceCore] Event: ActionActivated
+[22:17:55 TRACE SpaceCore] Event: BeforeWarp
+[22:17:55 TRACE game] Warping to FarmHouse
+[22:17:56 TRACE Visible Fish] Warped to FarmHouse
+[22:17:56 TRACE Visible Fish] No water here. Stop spawning fish in FarmHouse.
+[22:18:06 TRACE SpaceCore] Event: TouchActionActivated
+[22:18:08 TRACE SMAPI] Synchronizing 'NewDay' task...
+[22:18:08 TRACE SMAPI] Content Patcher edited Animals/Sheep (for the 'Elle's New Barn Animals' content pack).
+[22:18:09 TRACE SpaceCore] Event: ChooseNightlyFarmEvent
+[22:18:09 TRACE SpaceCore] Event: ShowNightEndMenus
+[22:18:09 DEBUG SpaceCore] Doing skill menus
+[22:18:09 TRACE SMAPI]    task complete.
+[22:18:09 TRACE SMAPI] Context: before save.
+[22:18:09 TRACE SpaceCore] Saving custom data
+[22:18:15 TRACE game] SaveGame.Save() called.
+[22:18:15 TRACE SMAPI] Synchronizing 'Save' task...
+[22:18:15 TRACE game] Saving without compression...
+[22:18:17 TRACE SMAPI]    task complete.
+[22:18:17 TRACE game] SaveGame.Save() completed without exceptions.
+[22:18:20 TRACE SMAPI] Context: after save, starting summer 10 Y2.
+[22:18:27 TRACE SpaceCore] Event: TouchActionActivated
+[22:18:27 TRACE SpaceCore] Event: BeforeWarp
+[22:18:27 TRACE game] Warping to Cellar
+[22:18:27 TRACE Visible Fish] Warped to Cellar
+[22:18:28 TRACE Visible Fish] No water here. Stop spawning fish in Cellar.
+[22:18:30 TRACE Lookup Anything] Received a lookup request... searching the world...
+[22:18:30 TRACE Lookup Anything] Showing ItemSubject::Other::Cask.
+[22:18:30 TRACE SMAPI] Json Assets edited Data/TailoringRecipes.
+[22:19:09 TRACE SpaceCore] Event: BeforeWarp
+[22:19:09 TRACE game] Warping to Farmhouse
+[22:19:10 TRACE Visible Fish] Warped to FarmHouse
+[22:19:10 TRACE Visible Fish] No water here. Stop spawning fish in FarmHouse.
+[22:19:13 TRACE SpaceCore] Event: BeforeWarp
+[22:19:13 TRACE game] Warping to Farm
+[22:19:14 TRACE Visible Fish] Warped to Farm
+[22:19:14 TRACE Visible Fish] Spawning fish in Farm.
+[22:19:14 TRACE Visible Fish] found 93 water tiles
+[22:19:14 TRACE Visible Fish] Attempted Spawns 15 Failed Spawns: 15
+[22:19:14 TRACE Visible Fish] More than 98% of spawned fish was trash or didn't have an aquarium sprite. Stop spawning fish in Farm.
+[22:19:17 TRACE SpaceCore] Event: ActionActivated
+[22:19:22 TRACE SpaceCore] Event: ActionActivated
+[22:19:37 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[22:19:37 DEBUG Better Crafting] [RecipeManager] Loaded 80 cooking recipes and 130 crafting recipes.
+[22:19:39 TRACE game] setGameMode( 'titleScreenGameMode (0)' )
+[22:19:39 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[22:19:39 TRACE Content Patcher] Requested cache invalidation for all assets matching a predicate.
+[22:19:39 TRACE SMAPI] Invalidated 4 asset names (Maps/DesertTiles, Maps/summer_beach, Maps/summer_outdoorsTileSheet, Maps/summer_town).
+Propagated 0 core assets ().
+[22:19:39 TRACE Json Assets] Requested cache invalidation for all assets matching a predicate.
+[22:19:39 TRACE SMAPI] Json Assets edited Maps/springobjects.
+[22:19:39 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Better Gems and Minerals' content pack).
+[22:19:39 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Elle's New Barn Animals' content pack).
+[22:19:39 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Elle's New Coop Animals' content pack).
+[22:19:39 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the '[CP] Iridium Recolors' content pack).
+[22:19:39 TRACE SMAPI] Content Patcher edited Maps/springobjects (for the 'Faithful Weapons' content pack).
+[22:19:39 TRACE SMAPI] Json Assets edited Data/BigCraftablesInformation.
+[22:19:39 TRACE SMAPI] Json Assets edited TileSheets/Craftables.
+[22:19:39 TRACE SMAPI] Content Patcher edited TileSheets/Craftables (for the '[CP] Iridium Recolors' content pack).
+[22:19:39 TRACE SMAPI] Json Assets edited Data/ClothingInformation.
+[22:19:39 TRACE SMAPI] Json Assets edited Data/ObjectInformation.
+[22:19:39 TRACE SMAPI] Json Assets edited Data/CookingRecipes.
+[22:19:39 TRACE SMAPI] Json Assets edited Data/CraftingRecipes.
+[22:19:39 TRACE SMAPI] Json Assets edited Characters/Farmer/hats.
+[22:19:39 TRACE SMAPI] Json Assets edited Characters/Farmer/pants.
+[22:19:39 TRACE SMAPI] Json Assets edited Characters/Farmer/shirts.
+[22:19:39 TRACE SMAPI] Json Assets edited TileSheets/fruitTrees.
+[22:19:39 TRACE SMAPI] Json Assets edited TileSheets/crops.
+[22:19:39 TRACE SMAPI] Json Assets edited Data/ObjectContextTags.
+[22:19:39 TRACE SMAPI] Content Patcher edited Data/ObjectContextTags (for the '[CP] Forage of Ferngill' content pack).
+[22:19:39 TRACE SMAPI] Json Assets edited TileSheets/weapons.
+[22:19:39 TRACE SMAPI] Content Patcher edited TileSheets/weapons (for the '[CP] Iridium Recolors' content pack).
+[22:19:39 TRACE SMAPI] Content Patcher edited TileSheets/weapons (for the 'Faithful Weapons' content pack).
+[22:19:39 TRACE SMAPI] Invalidated 20 asset names (Characters/Farmer/hats, Characters/Farmer/pants, Characters/Farmer/shirts, Characters/Farmer/shoeColors, Data/BigCraftablesInformation, Data/Boots, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/Crops, Data/fruitTrees, Data/hats, Data/ObjectContextTags, Data/ObjectInformation, Data/weapons, Maps/springobjects, TileSheets/Craftables, TileSheets/crops, TileSheets/fruitTrees, TileSheets/weapons).
+Propagated 14 core assets (Characters/Farmer/hats, Characters/Farmer/pants, Characters/Farmer/shirts, Data/BigCraftablesInformation, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/ObjectContextTags, Data/ObjectInformation, Maps/springobjects, TileSheets/Craftables, TileSheets/crops, TileSheets/fruitTrees, TileSheets/weapons).
+[22:19:39 TRACE SMAPI] Context: returning to title
+[22:19:39 TRACE game] CleanupReturningToTitle()
+[22:19:39 TRACE game] Disconnected: ExitedToMainMenu
+[22:19:39 TRACE SMAPI] Json Assets edited Data/weapons.
+[22:19:39 TRACE SMAPI] Invalidating cached assets for new editors & loaders...
+[22:19:39 TRACE SMAPI]    changed: Json Assets (removed 1).
+[22:19:39 TRACE SMAPI] Invalidated 1 asset names (Data/NPCGiftTastes).
+Propagated 1 core assets (Data/NPCGiftTastes).
+[22:19:39 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:1920 Height:1080}
+[22:19:40 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:320 Y:180 Width:1280 Height:720}
+[22:19:41 TRACE game] Disconnected: ClosedGame
+[22:19:41 TRACE SMAPI] Disposing...
+[22:19:41 TRACE SMAPI] Disposing the content coordinator. Content managers will no longer be usable after this point.
